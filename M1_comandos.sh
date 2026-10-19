@@ -24,3 +24,7 @@ zcat < SRR11285537_1.fastq.gz | wc -l
 # Resultado obtenido: 31,895,736 líneas.
 # Cada read ocupa 4 líneas.
 # Número de reads R1: 31,895,736 / 4 = 7,973,934.
+
+# Conteo de genes anotados por cromosoma en Magallana gigas
+# Ensamblaje: xbMagGiga1.1 (RefSeq GCF_963853765.1)
+grep $'\tgene\t' genomic.gtf | cut -f1 | sort | uniq -c | grep 'NC_' > genes_por_cromosoma.txt
