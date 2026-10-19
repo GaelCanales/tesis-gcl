@@ -28,3 +28,12 @@ zcat < SRR11285537_1.fastq.gz | wc -l
 # Conteo de genes anotados por cromosoma en Magallana gigas
 # Ensamblaje: xbMagGiga1.1 (RefSeq GCF_963853765.1)
 grep $'\tgene\t' genomic.gtf | cut -f1 | sort | uniq -c | grep 'NC_' > genes_por_cromosoma.txt
+
+# Filtrado de muestras de branquias (gill) de Magallana gigas (Tax ID: 29159)
+# Fuente: ENA, Advanced Search, Raw reads (read_run)
+# Entrada: results_read_run.tsv
+# Salida: muestras_gill.tsv
+# Criterio: columna 2 (tissue_type) = gill o gills 
+
+# Se conservan los encabezados y las filas cuyo tejido es gill o gills
+awk -F '\t' 'NR == 1 || tolower($2) == "gill" || tolower($2) == "gills"' results_read_run.tsv > muestras_gill.tsv

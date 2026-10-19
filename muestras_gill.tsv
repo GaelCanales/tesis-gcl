@@ -1,0 +1,1607 @@
+run_accession	tissue_type	experiment_title	tax_id
+SRR5798768	gill	Illumina HiSeq 2000 paired end sequencing: Whole genome sequencing data set.	29159
+SRR6058528	gill	Illumina HiSeq 2000 sequencing: BYQJ63	29159
+SRR6058612	gill	Illumina HiSeq 2000 sequencing: LTJ03	29159
+SRR6062977	gill	Illumina HiSeq 2000 sequencing: 32A_13	29159
+SRR6062981	gill	Illumina HiSeq 2000 sequencing: 13_24	29159
+SRR6062985	gill	Illumina HiSeq 2000 sequencing: 13_11	29159
+SRR6062987	gill	Illumina HiSeq 2000 sequencing: 13_1	29159
+SRR6062988	gill	Illumina HiSeq 2000 sequencing: 25_4	29159
+SRR6062990	gill	Illumina HiSeq 2000 sequencing: 26A_14	29159
+SRR6062997	gill	Illumina HiSeq 2000 sequencing: 15_8	29159
+SRR6062998	gill	Illumina HiSeq 2000 sequencing: 15_5	29159
+SRR6063003	gill	Illumina HiSeq 2000 sequencing: 15_23	29159
+SRR6063017	gill	Illumina HiSeq 2000 sequencing: 20A_9	29159
+SRR6063020	gill	Illumina HiSeq 2000 sequencing: 20_2	29159
+SRR6063022	gill	Illumina HiSeq 2000 sequencing: 20_17	29159
+SRR6063037	gill	Illumina HiSeq 2000 sequencing: 12A_11	29159
+SRR6063040	gill	Illumina HiSeq 2000 sequencing: 11_6	29159
+SRR6063050	gill	Illumina HiSeq 2000 sequencing: 10A_12	29159
+SRR6063052	gill	Illumina HiSeq 2000 sequencing: 10A_10	29159
+SRR6063062	gill	Illumina HiSeq 2000 sequencing: 6A_7	29159
+SRR6063063	gill	Illumina HiSeq 2000 sequencing: 6A_6	29159
+SRR6063064	gill	Illumina HiSeq 2000 sequencing: 6A_4	29159
+SRR6063074	gill	Illumina HiSeq 2000 sequencing: 24A_11	29159
+SRR6063077	gill	Illumina HiSeq 2000 sequencing: 24A_1	29159
+SRR6063081	gill	Illumina HiSeq 2000 sequencing: 22_9	29159
+SRR6063085	gill	Illumina HiSeq 2000 sequencing: 18A_24	29159
+SRR6063089	gill	Illumina HiSeq 2000 sequencing: 18A_20	29159
+SRR6063090	gill	Illumina HiSeq 2000 sequencing: 18A_21	29159
+SRR6063099	gill	Illumina HiSeq 2000 sequencing: QDT15	29159
+SRR6063105	gill	Illumina HiSeq 2000 sequencing: 13_6	29159
+SRR6063106	gill	Illumina HiSeq 2000 sequencing: 14A_10	29159
+SRR6063109	gill	Illumina HiSeq 2000 sequencing: 14A_1	29159
+SRR6063111	gill	Illumina HiSeq 2000 sequencing: 14A_13	29159
+SRR6063129	gill	Illumina HiSeq 2000 sequencing: 12_17	29159
+SRR6063137	gill	Illumina HiSeq 2000 sequencing: 12_3	29159
+SRR6063145	gill	Illumina HiSeq 2000 sequencing: 25_22	29159
+SRR6063161	gill	Illumina HiSeq 2000 sequencing: 20A_2	29159
+SRR6063163	gill	Illumina HiSeq 2000 sequencing: 20A_16	29159
+SRR6063174	gill	Illumina HiSeq 2000 sequencing: 22A_17	29159
+SRR6063180	gill	Illumina HiSeq 2000 sequencing: 12A_4	29159
+SRR6063183	gill	Illumina HiSeq 2000 sequencing: 12A_6	29159
+SRR6063188	gill	Illumina HiSeq 2000 sequencing: 16A_3	29159
+SRR6063189	gill	Illumina HiSeq 2000 sequencing: 16A_6	29159
+SRR6063195	gill	Illumina HiSeq 2000 sequencing: 16A_9	29159
+SRR6063198	gill	Illumina HiSeq 2000 sequencing: 18A_17	29159
+SRR6063199	gill	Illumina HiSeq 2000 sequencing: 21_6	29159
+SRR6063201	gill	Illumina HiSeq 2000 sequencing: 22A_11	29159
+SRR6063205	gill	Illumina HiSeq 2000 sequencing: 21_24	29159
+SRR6063207	gill	Illumina HiSeq 2000 sequencing: 17_16	29159
+SRR6063212	gill	Illumina HiSeq 2000 sequencing: 22A_13	29159
+SRR6063220	gill	Illumina HiSeq 2000 sequencing: 28A_12	29159
+SRR6063221	gill	Illumina HiSeq 2000 sequencing: 28A_15	29159
+SRR6063230	gill	Illumina HiSeq 2000 sequencing: 10A_24	29159
+SRR6063232	gill	Illumina HiSeq 2000 sequencing: 10A_3	29159
+SRR6063238	gill	Illumina HiSeq 2000 sequencing: 4A_4	29159
+SRR6063240	gill	Illumina HiSeq 2000 sequencing: 4A_25	29159
+SRR6063242	gill	Illumina HiSeq 2000 sequencing: 4A_19	29159
+SRR6063247	gill	Illumina HiSeq 2000 sequencing: 30_3	29159
+SRR6063248	gill	Illumina HiSeq 2000 sequencing: 30_23	29159
+SRR6063250	gill	Illumina HiSeq 2000 sequencing: 30_19	29159
+SRR6063252	gill	Illumina HiSeq 2000 sequencing: 30_20	29159
+SRR6063254	gill	Illumina HiSeq 2000 sequencing: 30_4	29159
+SRR6063258	gill	Illumina HiSeq 2000 sequencing: 26A_11	29159
+SRR6063267	gill	Illumina HiSeq 2000 sequencing: 14A_23	29159
+SRR6063269	gill	Illumina HiSeq 2000 sequencing: 14A_25	29159
+SRR6063270	gill	Illumina HiSeq 2000 sequencing: 14A_3	29159
+SRR6063280	gill	Illumina HiSeq 2000 sequencing: 21_15	29159
+SRR6063283	gill	Illumina HiSeq 2000 sequencing: 21_10	29159
+SRR6063294	gill	Illumina HiSeq 2000 sequencing: 8A_11	29159
+SRR6063309	gill	Illumina HiSeq 2000 sequencing: 12A_21	29159
+SRR6063315	gill	Illumina HiSeq 2000 sequencing: 12A_3	29159
+SRR6063318	gill	Illumina HiSeq 2000 sequencing: 7_19	29159
+SRR6063331	gill	Illumina HiSeq 2000 sequencing: 24A_17	29159
+SRR6063332	gill	Illumina HiSeq 2000 sequencing: 24A_18	29159
+SRR6063336	gill	Illumina HiSeq 2000 sequencing: 24A_21	29159
+SRR6063339	gill	Illumina HiSeq 2000 sequencing: 18A_16	29159
+SRR6063340	gill	Illumina HiSeq 2000 sequencing: 18A_14	29159
+SRR6063344	gill	Illumina HiSeq 2000 sequencing: 17_4	29159
+SRR6063346	gill	Illumina HiSeq 2000 sequencing: 14A_14	29159
+SRR6063349	gill	Illumina HiSeq 2000 sequencing: 14A_19	29159
+SRR6063358	gill	Illumina HiSeq 2000 sequencing: 9_17	29159
+SRR6063360	gill	Illumina HiSeq 2000 sequencing: 15_25	29159
+SRR6063362	gill	Illumina HiSeq 2000 sequencing: 9_10	29159
+SRR6063367	gill	Illumina HiSeq 2000 sequencing: 9_16	29159
+SRR6063370	gill	Illumina HiSeq 2000 sequencing: 30_7	29159
+SRR6063374	gill	Illumina HiSeq 2000 sequencing: 32A_10	29159
+SRR6063379	gill	Illumina HiSeq 2000 sequencing: 26A_19	29159
+SRR6063383	gill	Illumina HiSeq 2000 sequencing: 26A_23	29159
+SRR6063386	gill	Illumina HiSeq 2000 sequencing: 7_22	29159
+SRR6063391	gill	Illumina HiSeq 2000 sequencing: 11_22	29159
+SRR6063401	gill	Illumina HiSeq 2000 sequencing: 6A_13	29159
+SRR6063402	gill	Illumina HiSeq 2000 sequencing: 6A_11	29159
+SRR6063408	gill	Illumina HiSeq 2000 sequencing: 4A_7	29159
+SRR6063412	gill	Illumina HiSeq 2000 sequencing: 4A_10	29159
+SRR6063414	gill	Illumina HiSeq 2000 sequencing: 34A_9	29159
+SRR6063416	gill	Illumina HiSeq 2000 sequencing: 4A_11	29159
+SRR6063425	gill	Illumina HiSeq 2000 sequencing: 24_5	29159
+SRR6063428	gill	Illumina HiSeq 2000 sequencing: 24_3	29159
+SRR6063434	gill	Illumina HiSeq 2000 sequencing: 18A_5	29159
+SRR6063442	gill	Illumina HiSeq 2000 sequencing: 9_7	29159
+SRR6063443	gill	Illumina HiSeq 2000 sequencing: 9_21	29159
+SRR6063449	gill	Illumina HiSeq 2000 sequencing: 8A_22	29159
+SRR6063451	gill	Illumina HiSeq 2000 sequencing: 8A_25	29159
+SRR6063452	gill	Illumina HiSeq 2000 sequencing: 8A_24	29159
+SRR6063458	gill	Illumina HiSeq 2000 sequencing: 30_14	29159
+SRR6063468	gill	Illumina HiSeq 2000 sequencing: 30A_7	29159
+SRR6063469	gill	Illumina HiSeq 2000 sequencing: 12A_9	29159
+SRR19046234	gill	Illumina NovaSeq 6000 sequencing: RNA-Seq of 48hg2 gill	29159
+SRR19046236	gill	Illumina NovaSeq 6000 sequencing: RNA-Seq of 6hg3 gill	29159
+SRR19046239	gill	Illumina NovaSeq 6000 sequencing: RNA-Seq of 0hg3 gill	29159
+SRR2032169	gill	Illumina Genome Analyzer IIx paired end sequencing: Genome resequencing on the 8A25 individual	29159
+SRR21047125	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of diploids: Crassostrea gigas	29159
+SRR21047126	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of diploids: Crassostrea gigas	29159
+SRR21047129	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of diploids: Crassostrea gigas	29159
+SRR21047130	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of diploids: Crassostrea gigas	29159
+SRR21047133	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of triploids: Crassostrea gigas	29159
+SRR21047139	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of triploids: Crassostrea gigas	29159
+SRR21047143	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of triploids: Crassostrea gigas	29159
+SRR21047152	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of diploids: Crassostrea gigas	29159
+SRR30532914	gills	NextSeq 550 sequencing: RNA-seq of C. gigas estradiol 1	29159
+SRR30532915	gills	NextSeq 550 sequencing: RNA-seq of C. gigas control 6	29159
+SRR30532916	gills	NextSeq 550 sequencing: RNA-seq of C. gigas control 5	29159
+SRR40491690	gill	Illumina NovaSeq X Plus sequencing: RNA-Seq of oyster	29159
+SRR40491698	gill	Illumina NovaSeq X Plus sequencing: RNA-Seq of oyster	29159
+SRR7647215	gills	Illumina HiSeq 2000 sequencing: lagoon RNA	29159
+SRR796582	Gill	Illumina Genome Analyzer II sequencing: Transcriptome of the Pacific oyster under Vibrio challenge at different time points	29159
+SRR796584	Gill	Illumina Genome Analyzer II sequencing: Transcriptome of the Pacific oyster under Vibrio challenge at different time points	29159
+SRR796586	Gill	Illumina Genome Analyzer II sequencing: Transcriptome of the Pacific oyster under Vibrio challenge at different time points	29159
+SRR8485505	Gill	HiSeq X Ten sequencing: RNAi based transcriptome provides new evidence of the HSF7-HSP regulatory relationship in the thermo stress for the Pacific oyster	29159
+SRR8485507	Gill	HiSeq X Ten sequencing: RNAi based transcriptome provides new evidence of the HSF5-HSP regulatory relationship in the thermo stress for the Pacific oyster	29159
+SRR8485508	Gill	HiSeq X Ten sequencing: RNAi based transcriptome provides new evidence of the HSF6-HSP regulatory relationship in the thermo stress for the Pacific oyster	29159
+SRR8485510	Gill	HiSeq X Ten sequencing: RNAi based transcriptome provides new evidence of the HSF4-HSP regulatory relationship in the thermo stress for the Pacific oyster	29159
+SRR8485511	Gill	HiSeq X Ten sequencing: RNAi based transcriptome provides new evidence of the HSF1-HSP regulatory relationship in the thermo stress for the Pacific oyster	29159
+SRR8489860	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489864	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489871	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489884	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8856651	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856656	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856660	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856664	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856668	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856680	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856683	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+ERR13913472	gills	Illumina NovaSeq 6000 sequencing: GT1_16_T0_G_S	29159
+ERR13913473	gills	Illumina NovaSeq 6000 sequencing: GT1_16_T1_G_S	29159
+ERR13913475	gills	Illumina NovaSeq 6000 sequencing: GT2_15_T1_G_S	29159
+ERR13913477	gills	Illumina NovaSeq 6000 sequencing: GT3_14_T1_G_S	29159
+ERR3727273	Gill	HiSeq X Ten sequencing: Raw reads: WGS_2	29159
+ERR3760406	Gill	Sequel sequencing: Raw reads: Pacbio_SMRT_2	29159
+ERR3760540	Gill	Sequel sequencing: Raw reads: Pacbio_SMRT_7	29159
+ERR3760971	Gill	Sequel sequencing: Raw reads: Pacbio_SMRT_8	29159
+ERR3761190	Gill	Sequel sequencing: Raw reads: Pacbio_SMRT_10	29159
+ERR3761418	Gill	Sequel sequencing: Raw reads: Pacbio_SMRT_13	29159
+ERR4185814	gills	NextSeq 500 sequencing	29159
+ERR4185819	gills	NextSeq 500 sequencing	29159
+ERR4185822	gills	NextSeq 500 sequencing	29159
+ERR4185823	gills	NextSeq 500 sequencing	29159
+ERR4185824	gills	NextSeq 500 sequencing	29159
+ERR4185825	gills	NextSeq 500 sequencing	29159
+ERR4185826	gills	NextSeq 500 sequencing	29159
+ERR4185828	gills	NextSeq 500 sequencing	29159
+ERR4185829	gills	NextSeq 500 sequencing	29159
+SRR10065364	gill	HiSeq X Ten sequencing: BS-seq of Crassostrea gigasgill	29159
+SRR10065370	gill	HiSeq X Ten sequencing: BS-seq of Crassostrea gigasgill	29159
+SRR10799914	gill	Sequel II sequencing: DNA seq of Pacific oyster	29159
+SRR10800307	gill	Sequel II sequencing: DNA seq of Pacific oyster	29159
+SRR10800309	gill	Sequel II sequencing: DNA seq of Pacific oyster	29159
+SRR10801760	gill	Illumina NovaSeq 6000 sequencing: HIC DNA seq of Pacific oyster	29159
+SRR11011536	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011544	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011545	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011546	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011549	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011554	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011556	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011557	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011558	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011566	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011573	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011591	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011593	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011594	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011600	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011602	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011605	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011606	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011607	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011610	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011617	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR13482028	gills	Illumina HiSeq 2000 sequencing: SS35-R1	29159
+SRR13482030	gills	Illumina HiSeq 2000 sequencing: RR59-R3	29159
+SRR13523939	gill	HiSeq X Ten sequencing: BS-seq of Crassostrea gigasgill	29159
+SRR15032735	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas	29159
+SRR15559849	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas (Gill tissue) Infected by Vibrio at low salinity	29159
+SRR15559850	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas (Gill tissue) Infected by Vibrio at normal salinity	29159
+SRR15851236	Gills	Illumina HiSeq 2000 sequencing: A0d_3	29159
+SRR15851244	Gills	Illumina HiSeq 2000 sequencing: A12t_2	29159
+SRR16766933	Gill	Sequel II sequencing: PacBio library	29159
+SRR16844798	gill	Illumina NovaSeq 6000 sequencing: RNA-Seq of Cg_C24h	29159
+SRR16844799	gill	Illumina NovaSeq 6000 sequencing: RNA-Seq of Cg_C3d	29159
+SRR17849687	Gills	Illumina HiSeq 3000 sequencing: GSM5852399: PAO_2_G_uc Crassostrea gigas Bisulfite-Seq	29159
+SRR18245591	gill	HiSeq X Ten sequencing: WGBS of intertidal Crassostrea gigasF2	29159
+SRR18245594	gill	HiSeq X Ten sequencing: WGBS of subtidal Crassostrea gigasF0	29159
+SRR18245595	gill	HiSeq X Ten sequencing: WGBS of intertidal Crassostrea gigasF2	29159
+SRR18245596	gill	HiSeq X Ten sequencing: WGBS of intertidal Crassostrea gigasF2	29159
+SRR18245599	gill	HiSeq X Ten sequencing: WGBS of intertidal Crassostrea gigasF1	29159
+SRR18245601	gill	HiSeq X Ten sequencing: WGBS of intertidal Crassostrea gigasF1	29159
+SRR18245602	gill	HiSeq X Ten sequencing: WGBS of intertidal Crassostrea gigasF1	29159
+SRR18245605	gill	HiSeq X Ten sequencing: WGBS of subtidal Crassostrea gigasF0	29159
+SRR18245606	gill	HiSeq X Ten sequencing: WGBS of subtidal Crassostrea gigasF0	29159
+SRR18452370	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR18452373	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR18452376	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR2002821	Gill	Illumina Genome Analyzer II sequencing: T0_1	29159
+SRR2002845	Gill	Illumina Genome Analyzer II sequencing: 6h_control2	29159
+SRR2002934	Gill	Illumina Genome Analyzer II sequencing: 6h_inj2	29159
+SRR2002941	Gill	Illumina Genome Analyzer II sequencing: 12h_inj2	29159
+SRR2002952	Gill	Illumina Genome Analyzer II sequencing: 48h_SW3	29159
+SRR2015337	gill	Illumina HiSeq 2000 paired end sequencing: Genome resequencing on the 12A11 individual	29159
+SRR22099723	gill	HiSeq X Ten sequencing: RNA-seq of DNA demethylation experiment	29159
+SRR22099725	gill	HiSeq X Ten sequencing: RNA-seq of DNA demethylation experiment	29159
+SRR22252663	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of C. gigas	29159
+SRR24489460	Gill	HiSeq X Ten sequencing: ATAC-Seq of Crassostrea gigas: adult gill under heat stress	29159
+SRR24489466	Gill	HiSeq X Ten sequencing: ATAC-Seq of Crassostrea gigas: adult gill without heat stress	29159
+SRR24956751	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956753	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956757	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956758	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956763	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956771	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956774	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956776	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956782	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956793	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956796	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956804	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956817	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956819	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956820	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956822	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956824	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956828	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR25336282	gill	HiSeq X Ten sequencing: RNA-seq of oyster prespawning	29159
+SRR27190592	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190594	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190605	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190614	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190615	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR29092530	gill	Illumina NovaSeq 6000 sequencing: Bisulfite-Seq of 48hg2 gill	29159
+SRR29092534	gill	Illumina NovaSeq 6000 sequencing: Bisulfite-Seq of 6hg1 gill	29159
+SRR30015900	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015902	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015905	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015910	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015914	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015919	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015929	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015932	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015933	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015934	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015936	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015937	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015951	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015952	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015959	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015961	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015965	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015977	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015985	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015987	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015992	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015995	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016000	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016005	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016006	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016026	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016027	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016031	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016035	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016037	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016042	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016044	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016052	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR31593366	gill	Illumina NovaSeq X Plus sequencing: Trabscriptone of oyster	29159
+SRR31593386	gill	Illumina NovaSeq X Plus sequencing: Dap-seq of oyster	29159
+SRR31994101	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of oyster gill:sample5	29159
+SRR32943325	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Magallana gigas: adult	29159
+SRR32943330	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Magallana gigas: adult	29159
+SRR33321633	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S99	29159
+SRR33321638	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S94	29159
+SRR33321640	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S92	29159
+SRR33321645	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S88	29159
+SRR33321646	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S87	29159
+SRR33321647	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S86	29159
+SRR33321653	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S9	29159
+SRR33321657	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S77	29159
+SRR33321658	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S76	29159
+SRR33321662	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S72	29159
+SRR33321671	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S64	29159
+SRR33321673	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S62	29159
+SRR33321680	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S56	29159
+SRR33321700	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S38	29159
+SRR33321707	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S31	29159
+SRR33321711	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S28	29159
+SRR33321720	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S20	29159
+SRR33321722	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S18	29159
+SRR33321725	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S15	29159
+SRR334266	gill	Illumina HiSeq 2000 sequencing: GSM768450: temperature_25	29159
+SRR334271	gill	Illumina HiSeq 2000 sequencing: GSM768455: salt_15	29159
+SRR334272	gill	Illumina HiSeq 2000 sequencing: GSM768456: salt_20	29159
+SRR334281	gill	Illumina HiSeq 2000 sequencing: GSM768465: dried_gills_10d	29159
+SRR334282	gill	Illumina HiSeq 2000 sequencing: GSM768466: dried_gills_11d	29159
+SRR334291	gill	Illumina HiSeq 2000 sequencing: GSM768475: Zn12h_gills	29159
+SRR334309	gill	Illumina HiSeq 2000 sequencing: GSM768493: Zn_Cd9d_gills	29159
+SRR34556216	Gills	NextSeq 550 sequencing: X-ChIP H3K4me3 on oyster gills3	29159
+SRR34556217	Gills	NextSeq 550 sequencing: X-ChIP H3K4me3 on oyster gills2	29159
+SRR34575469	Gill	Illumina NovaSeq 6000 sequencing: CUT&Tag of C.gigas	29159
+SRR35359942	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of Magallana gigas:Gill	29159
+SRR35430439	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of Magallana gigas gill	29159
+SRR35579174	Gill	DNBSEQ-G400 sequencing: RNA-seq of Magallana gigas Gill	29159
+SRR35579175	Gill	DNBSEQ-G400 sequencing: RNA-seq of Magallana gigas Gill	29159
+SRR35579176	Gill	DNBSEQ-G400 sequencing: RNA-seq of Magallana gigas Gill	29159
+SRR35579178	Gill	DNBSEQ-G400 sequencing: RNA-seq of Magallana gigas Gill	29159
+SRR35579191	Gill	DNBSEQ-G400 sequencing: RNA-seq of Magallana gigas Gill	29159
+SRR38841271	gill	NextSeq 2000 sequencing: 65S rRNA of simbiotic microbiome	29159
+SRR38841272	gill	NextSeq 2000 sequencing: 64S rRNA of simbiotic microbiome	29159
+SRR38841275	gill	NextSeq 2000 sequencing: 61S rRNA of simbiotic microbiome	29159
+SRR2002943	Gill	Illumina Genome Analyzer II sequencing: 24h_SW1	29159
+SRR2002950	Gill	Illumina Genome Analyzer II sequencing: 48h_SW1	29159
+SRR2002954	Gill	Illumina Genome Analyzer II sequencing: 48h_inj2	29159
+SRR2002955	Gill	Illumina Genome Analyzer II sequencing: 48h_inj3	29159
+SRR2032166	gill	Illumina Genome Analyzer IIx paired end sequencing: Genome resequencing on the 25-24 individual	29159
+SRR21047128	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of diploids: Crassostrea gigas	29159
+SRR21047135	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of triploids: Crassostrea gigas	29159
+SRR21047141	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of diploids: Crassostrea gigas	29159
+SRR21047142	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of triploids: Crassostrea gigas	29159
+SRR21047146	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of triploids: Crassostrea gigas	29159
+SRR21047147	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of diploids: Crassostrea gigas	29159
+SRR21047149	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of diploids: Crassostrea gigas	29159
+SRR24489462	Gill	HiSeq X Ten sequencing: ATAC-Seq of Crassostrea gigas: adult gill under heat stress	29159
+SRR24489465	Gill	Illumina NovaSeq 6000 sequencing: RNA-Seq of Crassostrea gigas: adult gill without heat stress	29159
+SRR24489481	Gill	Illumina NovaSeq 6000 sequencing: RNA-Seq of Crassostrea gigas: adult gill under heat stress	29159
+SRR29014510	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of C.gigas	29159
+SRR29014514	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of C.gigas	29159
+SRR29014515	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of C.gigas	29159
+SRR29092537	gill	Illumina NovaSeq 6000 sequencing: Bisulfite-Seq of 0hg1 gill	29159
+SRR30015901	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015903	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015906	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015907	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015912	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015915	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015917	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015918	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015923	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015942	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015944	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015946	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015949	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015950	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015955	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015957	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015968	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015976	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015978	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015983	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015984	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015988	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015990	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015999	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016001	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016002	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016017	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016018	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016019	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016022	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016025	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016028	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016040	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016043	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016045	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016047	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016050	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016055	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30532910	gills	NextSeq 550 sequencing: RNA-seq of C. gigas estradiol 4	29159
+SRR30532913	gills	NextSeq 550 sequencing: RNA-seq of C. gigas estradiol 2	29159
+SRR31994102	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of oyster gill:sample4	29159
+SRR31994103	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of oyster gill:sample3	29159
+SRR31994104	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of oyster gill:sample2	29159
+SRR31994105	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of oyster gill:sample1	29159
+SRR32943324	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Magallana gigas: adult	29159
+SRR32943327	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Magallana gigas: adult	29159
+SRR33321632	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S100	29159
+SRR33321635	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S97	29159
+SRR33321637	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S95	29159
+SRR33321639	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S93	29159
+SRR33321641	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S91	29159
+SRR33321643	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S90	29159
+SRR33321644	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S89	29159
+SRR33321649	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S84	29159
+SRR33321659	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S75	29159
+SRR33321660	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S74	29159
+SRR33321663	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S71	29159
+SRR33321679	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S57	29159
+SRR33321683	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S53	29159
+SRR33321689	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S48	29159
+SRR33321692	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S45	29159
+SRR33321708	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S4	29159
+SRR33321713	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S26	29159
+SRR33321714	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S25	29159
+SRR33321716	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S23	29159
+SRR33321727	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S13	29159
+SRR33321728	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S12	29159
+SRR33321729	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S11	29159
+SRR33321730	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S2	29159
+SRR334215	gill	Illumina HiSeq 2000 paired end sequencing: GSM768399: Gil	29159
+SRR334262	gill	Illumina HiSeq 2000 sequencing: GSM768446: temperature_5	29159
+SRR334268	gill	Illumina HiSeq 2000 sequencing: GSM768452: temperature_35	29159
+SRR334275	gill	Illumina HiSeq 2000 sequencing: GSM768459: salt_40	29159
+SRR334278	gill	Illumina HiSeq 2000 sequencing: GSM768462: dried_gills_5d	29159
+SRR334279	gill	Illumina HiSeq 2000 sequencing: GSM768463: dried_gills_7d	29159
+SRR334293	gill	Illumina HiSeq 2000 sequencing: GSM768477: Cu12h_gills	29159
+SRR334296	gill	Illumina HiSeq 2000 sequencing: GSM768480: Zn_Cd12h_gills	29159
+SRR334302	gill	Illumina HiSeq 2000 sequencing: GSM768486: Pb9d_gills	29159
+ERR13913466	gills	Illumina NovaSeq 6000 sequencing: GT3_16_T0_G_R	29159
+ERR13913468	gills	Illumina NovaSeq 6000 sequencing: GT4_21_T0_G_R	29159
+ERR13913474	gills	Illumina NovaSeq 6000 sequencing: GT2_15_T0_G_S	29159
+ERR3727450	Gill	HiSeq X Ten sequencing: Raw reads: WGS_5	29159
+ERR3760441	Gill	Sequel sequencing: Raw reads: Pacbio_SMRT_4	29159
+ERR3760535	Gill	Sequel sequencing: Raw reads: Pacbio_SMRT_6	29159
+ERR4185816	gills	NextSeq 500 sequencing	29159
+ERR4185832	gills	NextSeq 500 sequencing	29159
+SRR10065368	gill	HiSeq X Ten sequencing: BS-seq of Crassostrea gigasgill	29159
+SRR10065374	gill	HiSeq X Ten sequencing: BS-seq of Crassostrea gigasgill	29159
+SRR11011543	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011550	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011555	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011560	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011565	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011571	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011581	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011582	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011583	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011585	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011588	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011592	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011599	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011611	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011613	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011615	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011620	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011626	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR13482037	gills	Illumina HiSeq 2000 sequencing: SS35-R3	29159
+SRR13523942	gill	HiSeq X Ten sequencing: BS-seq of Crassostrea gigasgill	29159
+SRR13576943	gill	HiSeq X Ten sequencing: RNA-Seq of oyster: larva	29159
+SRR13576945	gill	HiSeq X Ten sequencing: RNA-Seq of oyster: larva	29159
+SRR13576946	gill	HiSeq X Ten sequencing: RNA-Seq of oyster: larva	29159
+SRR13576947	gill	HiSeq X Ten sequencing: RNA-Seq of oyster: larva	29159
+SRR15032733	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas	29159
+SRR15032734	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas	29159
+SRR15032738	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas	29159
+SRR15559846	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas (Gill tissue) Infected by Vibrio at normal salinity	29159
+SRR15559854	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas (Gill tissue) Infected by Vibrio at low salinity	29159
+SRR15851231	Gills	Illumina HiSeq 2000 sequencing: A12d_2	29159
+SRR15851232	Gills	Illumina HiSeq 2000 sequencing: A12d_1	29159
+SRR15851234	Gills	Illumina HiSeq 2000 sequencing: A0t_2	29159
+SRR15851237	Gills	Illumina HiSeq 2000 sequencing: Aft_3	29159
+SRR15851238	Gills	Illumina HiSeq 2000 sequencing: Aft_2	29159
+SRR17849686	Gills	Illumina HiSeq 3000 sequencing: GSM5852398: PAO_1_G Crassostrea gigas Bisulfite-Seq	29159
+SRR17849690	Gills	Illumina HiSeq 3000 sequencing: GSM5852402: PAO_5_G Crassostrea gigas Bisulfite-Seq	29159
+SRR18245592	gill	HiSeq X Ten sequencing: WGBS of intertidal Crassostrea gigasF2	29159
+SRR18245593	gill	HiSeq X Ten sequencing: WGBS of intertidal Crassostrea gigasF2	29159
+SRR18245600	gill	HiSeq X Ten sequencing: WGBS of intertidal Crassostrea gigasF1	29159
+SRR18452371	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR19046233	gill	Illumina NovaSeq 6000 sequencing: RNA-Seq of 48hg3 gill	29159
+SRR19046238	gill	Illumina NovaSeq 6000 sequencing: RNA-Seq of 6hg1 gill	29159
+SRR19046241	gill	Illumina NovaSeq 6000 sequencing: RNA-Seq of 0hg1 gill	29159
+SRR22099721	gill	HiSeq X Ten sequencing: RNA-seq of DNA demethylation experiment	29159
+SRR24956760	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956761	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956762	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956769	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956775	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956783	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956790	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956798	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956812	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956816	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956821	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956823	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956825	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956826	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956827	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR25336278	gill	HiSeq X Ten sequencing: RNA-seq of oyster postspawning	29159
+SRR25336279	gill	HiSeq X Ten sequencing: RNA-seq of oyster postspawning	29159
+SRR25336280	gill	HiSeq X Ten sequencing: RNA-seq of oyster prespawning	29159
+SRR27190598	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190602	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190608	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190611	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190619	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190620	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR10799911	gill	Sequel II sequencing: DNA seq of Pacific oyster	29159
+SRR10799913	gill	Sequel II sequencing: DNA seq of Pacific oyster	29159
+SRR10800306	gill	Sequel II sequencing: DNA seq of Pacific oyster	29159
+SRR10800308	gill	Sequel II sequencing: DNA seq of Pacific oyster	29159
+SRR10800475	gill	Illumina NovaSeq 6000 sequencing: DNA seq of Pacific oyster	29159
+SRR1640456	gills	Illumina HiSeq 2000 sequencing: miRNAs expression profile of Crassostrea gigas response to low salintiy	29159
+SRR1640511	gills	Illumina HiSeq 2000 sequencing: miRNAs expression profile of Crassostrea gigas response to optimal salinity	29159
+SRR31593364	gill	Illumina NovaSeq X Plus sequencing: Trabscriptone of oyster	29159
+SRR35579177	Gill	DNBSEQ-G400 sequencing: RNA-seq of Magallana gigas Gill	29159
+SRR35579180	Gill	DNBSEQ-G400 sequencing: RNA-seq of Magallana gigas Gill	29159
+SRR35579183	Gill	DNBSEQ-G400 sequencing: RNA-seq of Magallana gigas Gill	29159
+SRR8485506	Gill	HiSeq X Ten sequencing: RNAi based transcriptome provides new evidence of the HSF8-HSP regulatory relationship in the thermo stress for the Pacific oyster	29159
+SRR8489851	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489855	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489856	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489862	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489863	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489865	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489868	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489873	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489875	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8491756	gill	Ion Torrent S5 XL sequencing: microbial communitydiversities of soil	29159
+SRR8491757	gill	Ion Torrent S5 XL sequencing: microbial communitydiversities of soil	29159
+SRR34556211	Gills	NextSeq 550 sequencing: X-ChIP unbound on oyster gills4	29159
+SRR34575468	Gill	Illumina NovaSeq 6000 sequencing: CUT&Tag of C.gigas	29159
+SRR35359938	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of Magallana gigas:Gill	29159
+SRR35359940	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of Magallana gigas:Gill	29159
+SRR35359945	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of Magallana gigas:Gill	29159
+SRR35359946	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of Magallana gigas:Gill	29159
+SRR35359948	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of Magallana gigas:Gill	29159
+SRR35359949	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of Magallana gigas:Gill	29159
+SRR35430435	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of Magallana gigas gill	29159
+SRR35430438	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of Magallana gigas gill	29159
+SRR38841273	gill	NextSeq 2000 sequencing: 63S rRNA of simbiotic microbiome	29159
+SRR38841279	gill	NextSeq 2000 sequencing: 58S rRNA of simbiotic microbiome	29159
+SRR40491703	gill	Illumina NovaSeq X Plus sequencing: RNA-Seq of oyster	29159
+SRR40491705	gill	Illumina NovaSeq X Plus sequencing: RNA-Seq of oyster	29159
+SRR6058526	gill	Illumina HiSeq 2000 sequencing: BYQJ61	29159
+ERR13913463	gills	Illumina NovaSeq 6000 sequencing: GT1_09_T1_G_R	29159
+ERR13913464	gills	Illumina NovaSeq 6000 sequencing: GT2_18_T0_G_R	29159
+ERR13913465	gills	Illumina NovaSeq 6000 sequencing: GT2_18_T1_G_R	29159
+ERR13913471	gills	Illumina NovaSeq 6000 sequencing: GT5_06_T1_G_R	29159
+ERR13913479	gills	Illumina NovaSeq 6000 sequencing: GT4_21_T1_G_S	29159
+ERR3721505	Gill	HiSeq X Ten paired end sequencing: Raw reads: HiC	29159
+ERR3727302	Gill	HiSeq X Ten sequencing: Raw reads: WGS_3	29159
+ERR3727366	Gill	HiSeq X Ten sequencing: Raw reads: WGS_4	29159
+ERR3727456	Gill	HiSeq X Ten sequencing: Raw reads: WGS_6	29159
+ERR3760534	Gill	Sequel sequencing: Raw reads: Pacbio_SMRT_5	29159
+ERR3761191	Gill	Sequel sequencing: Raw reads: Pacbio_SMRT_11	29159
+ERR4185815	gills	NextSeq 500 sequencing	29159
+ERR4185831	gills	NextSeq 500 sequencing	29159
+SRR10065369	gill	HiSeq X Ten sequencing: BS-seq of Crassostrea gigasgill	29159
+SRR10065371	gill	HiSeq X Ten sequencing: BS-seq of Crassostrea gigasgill	29159
+SRR10799912	gill	Sequel II sequencing: DNA seq of Pacific oyster	29159
+SRR10800305	gill	Sequel II sequencing: DNA seq of Pacific oyster	29159
+SRR11011531	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011532	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011533	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011559	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011563	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011564	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011567	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011569	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011575	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011576	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011589	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011598	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011604	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011616	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011618	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011621	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011624	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR13482029	gills	Illumina HiSeq 2000 sequencing: SS05-R3	29159
+SRR13482033	gills	Illumina HiSeq 2000 sequencing: RR59-R1	29159
+SRR13482036	gills	Illumina HiSeq 2000 sequencing: RR52-R1	29159
+SRR13523940	gill	HiSeq X Ten sequencing: BS-seq of Crassostrea gigasgill	29159
+SRR13576944	gill	HiSeq X Ten sequencing: RNA-Seq of oyster: larva	29159
+SRR15559845	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas (Gill tissue) Infected by Vibrio at low salinity	29159
+SRR15559851	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas (Gill tissue) Infected by Vibrio at low salinity	29159
+SRR15559853	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas (Gill tissue) Infected by Vibrio at normal salinity	29159
+SRR15559856	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas (Gill tissue) Infected by Vibrio at low salinity	29159
+SRR15559857	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas (Gill tissue) Infected by Vibrio at normal salinty	29159
+SRR15851229	Gills	Illumina HiSeq 2000 sequencing: A12t_1	29159
+SRR15851233	Gills	Illumina HiSeq 2000 sequencing: A0t_3	29159
+SRR15851245	Gills	Illumina HiSeq 2000 sequencing: A0d_2	29159
+SRR15851246	Gills	Illumina HiSeq 2000 sequencing: A0d_1	29159
+SRR16766931	Gill	Illumina HiSeq X sequencing: Chicago library	29159
+SRR16844801	gill	Illumina NovaSeq 6000 sequencing: RNA-Seq of Cg_D3d	29159
+SRR17849684	Gills	Illumina HiSeq 3000 sequencing: GSM5852396: PAO_3_G Crassostrea gigas Bisulfite-Seq	29159
+SRR17849685	Gills	Illumina HiSeq 3000 sequencing: GSM5852397: PAO_4_G Crassostrea gigas Bisulfite-Seq	29159
+SRR18245584	gill	HiSeq X Ten sequencing: WGBS of intertidal Crassostrea gigasF0	29159
+SRR18245586	gill	HiSeq X Ten sequencing: WGBS of intertidal Crassostrea gigasF0	29159
+SRR18245590	gill	HiSeq X Ten sequencing: WGBS of intertidal Crassostrea gigasF2	29159
+SRR18245603	gill	HiSeq X Ten sequencing: WGBS of intertidal Crassostrea gigasF0	29159
+SRR18245604	gill	HiSeq X Ten sequencing: WGBS of intertidal Crassostrea gigasF0	29159
+SRR18452377	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR18452378	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR18452383	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR18452384	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR18452390	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR18452391	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR19046240	gill	Illumina NovaSeq 6000 sequencing: RNA-Seq of 0hg2 gill	29159
+SRR21047131	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of triploids: Crassostrea gigas	29159
+SRR21047134	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of triploids: Crassostrea gigas	29159
+SRR21047138	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of triploids: Crassostrea gigas	29159
+SRR21047140	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of triploids: Crassostrea gigas	29159
+SRR21047145	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of triploids: Crassostrea gigas	29159
+SRR21047150	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of diploids: Crassostrea gigas	29159
+SRR27190596	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190599	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190601	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190603	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190613	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190617	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR29014509	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of C.gigas	29159
+SRR29014516	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of C.gigas	29159
+SRR29092529	gill	Illumina NovaSeq 6000 sequencing: Bisulfite-Seq of 48hg3 gill	29159
+SRR29092533	gill	Illumina NovaSeq 6000 sequencing: Bisulfite-Seq of 6hg2 gill	29159
+SRR31593368	gill	Illumina NovaSeq X Plus sequencing: Trabscriptone of oyster	29159
+SRR317137	Gill	Illumina HiSeq 2000 sequencing: GSM768373: Gill	29159
+SRR334264	gill	Illumina HiSeq 2000 sequencing: GSM768448: temperature_15	29159
+SRR334267	gill	Illumina HiSeq 2000 sequencing: GSM768451: temperature_30	29159
+SRR334270	gill	Illumina HiSeq 2000 sequencing: GSM768454: salt_10	29159
+SRR334273	gill	Illumina HiSeq 2000 sequencing: GSM768457: salt_25	29159
+SRR334274	gill	Illumina HiSeq 2000 sequencing: GSM768458: salt_30	29159
+SRR334277	gill	Illumina HiSeq 2000 sequencing: GSM768461: dried_gills_3d	29159
+SRR334295	gill	Illumina HiSeq 2000 sequencing: GSM768479: Cd12h_gills	29159
+SRR35359939	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of Magallana gigas:Gill	29159
+SRR35359947	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of Magallana gigas:Gill	29159
+SRR35359951	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of Magallana gigas:Gill	29159
+SRR35430434	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of Magallana gigas gill	29159
+SRR35430437	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of Magallana gigas gill	29159
+SRR35579179	Gill	DNBSEQ-G400 sequencing: RNA-seq of Magallana gigas Gill	29159
+SRR35579181	Gill	DNBSEQ-G400 sequencing: RNA-seq of Magallana gigas Gill	29159
+SRR35579185	Gill	DNBSEQ-G400 sequencing: RNA-seq of Magallana gigas Gill	29159
+SRR35579187	Gill	DNBSEQ-G400 sequencing: RNA-seq of Magallana gigas Gill	29159
+SRR35579190	Gill	DNBSEQ-G400 sequencing: RNA-seq of Magallana gigas Gill	29159
+SRR6057012	gill	Illumina HiSeq 2000 sequencing: reaction norms of vertically distributed oyster	29159
+SRR6058531	gill	Illumina HiSeq 2000 sequencing: BYQX03	29159
+SRR6058609	gill	Illumina HiSeq 2000 sequencing: LTJ01	29159
+SRR6058617	gill	Illumina HiSeq 2000 sequencing: LTJ62	29159
+SRR6062983	gill	Illumina HiSeq 2000 sequencing: 13_15	29159
+SRR6062984	gill	Illumina HiSeq 2000 sequencing: 13_2	29159
+SRR6062986	gill	Illumina HiSeq 2000 sequencing: 13_10	29159
+SRR6062989	gill	Illumina HiSeq 2000 sequencing: 26A_12	29159
+SRR6062995	gill	Illumina HiSeq 2000 sequencing: 26A_10	29159
+SRR6063002	gill	Illumina HiSeq 2000 sequencing: 15_24	29159
+SRR6063005	gill	Illumina HiSeq 2000 sequencing: 20A_15	29159
+SRR6063010	gill	Illumina HiSeq 2000 sequencing: 20A_1	29159
+SRR6063018	gill	Illumina HiSeq 2000 sequencing: 20A_8	29159
+SRR6063023	gill	Illumina HiSeq 2000 sequencing: 20_16	29159
+SRR6063024	gill	Illumina HiSeq 2000 sequencing: 6A_21	29159
+SRR6063025	gill	Illumina HiSeq 2000 sequencing: 6A_19	29159
+SRR6063027	gill	Illumina HiSeq 2000 sequencing: 30A_13	29159
+SRR6063028	gill	Illumina HiSeq 2000 sequencing: 29_13	29159
+SRR6063029	gill	Illumina HiSeq 2000 sequencing: 28A_9	29159
+SRR6063031	gill	Illumina HiSeq 2000 sequencing: 28A_7	29159
+SRR6063033	gill	Illumina HiSeq 2000 sequencing: 30A_16	29159
+SRR6063039	gill	Illumina HiSeq 2000 sequencing: 12A_10	29159
+SRR6063043	gill	Illumina HiSeq 2000 sequencing: 30A_12	29159
+SRR6063046	gill	Illumina HiSeq 2000 sequencing: 12A_17	29159
+SRR6063047	gill	Illumina HiSeq 2000 sequencing: 12A_16	29159
+SRR6063049	gill	Illumina HiSeq 2000 sequencing: 10A_20	29159
+SRR6063059	gill	Illumina HiSeq 2000 sequencing: 6A_23	29159
+SRR6063061	gill	Illumina HiSeq 2000 sequencing: 6A_9	29159
+SRR6063067	gill	Illumina HiSeq 2000 sequencing: 32A_17	29159
+SRR6063075	gill	Illumina HiSeq 2000 sequencing: 24A_12	29159
+SRR6063076	gill	Illumina HiSeq 2000 sequencing: 24A_10	29159
+SRR6063079	gill	Illumina HiSeq 2000 sequencing: 32_9	29159
+SRR6063082	gill	Illumina HiSeq 2000 sequencing: 22_25	29159
+SRR6063084	gill	Illumina HiSeq 2000 sequencing: 22_15	29159
+SRR6063086	gill	Illumina HiSeq 2000 sequencing: 18A_25	29159
+SRR6063088	gill	Illumina HiSeq 2000 sequencing: 18A_23	29159
+SRR6063092	gill	Illumina HiSeq 2000 sequencing: 18A_2	29159
+SRR6063093	gill	Illumina HiSeq 2000 sequencing: 18A_3	29159
+SRR6063097	gill	Illumina HiSeq 2000 sequencing: WeiH3	29159
+SRR6063104	gill	Illumina HiSeq 2000 sequencing: 13_5	29159
+SRR6063116	gill	Illumina HiSeq 2000 sequencing: 8A_8	29159
+SRR6063118	gill	Illumina HiSeq 2000 sequencing: 30A_25	29159
+SRR6063136	gill	Illumina HiSeq 2000 sequencing: 12_25	29159
+SRR6063144	gill	Illumina HiSeq 2000 sequencing: 25_23	29159
+SRR6063146	gill	Illumina HiSeq 2000 sequencing: 16A_16	29159
+SRR6063147	gill	Illumina HiSeq 2000 sequencing: 16A_17	29159
+SRR6063148	gill	Illumina HiSeq 2000 sequencing: 16A_13	29159
+SRR6063157	gill	Illumina HiSeq 2000 sequencing: 20A_25	29159
+SRR6063160	gill	Illumina HiSeq 2000 sequencing: 20A_21	29159
+SRR6063162	gill	Illumina HiSeq 2000 sequencing: 20A_19	29159
+SRR6063164	gill	Illumina HiSeq 2000 sequencing: 20A_6	29159
+SRR6063170	gill	Illumina HiSeq 2000 sequencing: 22A_25	29159
+SRR6063173	gill	Illumina HiSeq 2000 sequencing: 22A_16	29159
+SRR6063177	gill	Illumina HiSeq 2000 sequencing: 12_10	29159
+SRR6063182	gill	Illumina HiSeq 2000 sequencing: 32A_1	29159
+SRR6063186	gill	Illumina HiSeq 2000 sequencing: 16_18	29159
+SRR6063192	gill	Illumina HiSeq 2000 sequencing: 16A_8	29159
+SRR6063193	gill	Illumina HiSeq 2000 sequencing: 16A_7	29159
+SRR6063204	gill	Illumina HiSeq 2000 sequencing: 21_4	29159
+SRR6063209	gill	Illumina HiSeq 2000 sequencing: 18A_10	29159
+SRR6063219	gill	Illumina HiSeq 2000 sequencing: 28A_13	29159
+SRR6063225	gill	Illumina HiSeq 2000 sequencing: 10A_8	29159
+SRR6063226	gill	Illumina HiSeq 2000 sequencing: 10_20	29159
+SRR6063229	gill	Illumina HiSeq 2000 sequencing: 10A_25	29159
+SRR6063231	gill	Illumina HiSeq 2000 sequencing: 10A_4	29159
+SRR6063233	gill	Illumina HiSeq 2000 sequencing: 10A_5	29159
+SRR6063253	gill	Illumina HiSeq 2000 sequencing: HYD1	29159
+SRR6063268	gill	Illumina HiSeq 2000 sequencing: 14A_24	29159
+SRR6063271	gill	Illumina HiSeq 2000 sequencing: 14A_5	29159
+SRR6063275	gill	Illumina HiSeq 2000 sequencing: 15_15	29159
+SRR6063278	gill	Illumina HiSeq 2000 sequencing: 21_22	29159
+SRR6063282	gill	Illumina HiSeq 2000 sequencing: 21_18	29159
+SRR6063284	gill	Illumina HiSeq 2000 sequencing: 21_11	29159
+SRR6063286	gill	Illumina HiSeq 2000 sequencing: 21_13	29159
+SRR6063292	gill	Illumina HiSeq 2000 sequencing: 7_4	29159
+SRR6063304	gill	Illumina HiSeq 2000 sequencing: 28A_3	29159
+SRR6063305	gill	Illumina HiSeq 2000 sequencing: 8_17	29159
+SRR6063310	gill	Illumina HiSeq 2000 sequencing: 12A_22	29159
+SRR6063314	gill	Illumina HiSeq 2000 sequencing: 12A_19	29159
+SRR6063321	gill	Illumina HiSeq 2000 sequencing: 7_10	29159
+SRR6063327	gill	Illumina HiSeq 2000 sequencing: 24A_13	29159
+SRR6063335	gill	Illumina HiSeq 2000 sequencing: 24A_20	29159
+SRR6063342	gill	Illumina HiSeq 2000 sequencing: 18A_12	29159
+SRR6063353	gill	Illumina HiSeq 2000 sequencing: 14A_22	29159
+SRR6063354	gill	Illumina HiSeq 2000 sequencing: 14A_21	29159
+SRR6063361	gill	Illumina HiSeq 2000 sequencing: 9_1	29159
+SRR6063364	gill	Illumina HiSeq 2000 sequencing: 9_13	29159
+SRR6063368	gill	Illumina HiSeq 2000 sequencing: 30_9	29159
+SRR6063375	gill	Illumina HiSeq 2000 sequencing: 18A_11	29159
+SRR6063378	gill	Illumina HiSeq 2000 sequencing: 26A_18	29159
+SRR6063380	gill	Illumina HiSeq 2000 sequencing: 26A_24	29159
+SRR6063381	gill	Illumina HiSeq 2000 sequencing: 26A_25	29159
+SRR6063382	gill	Illumina HiSeq 2000 sequencing: 26A_22	29159
+SRR6063388	gill	Illumina HiSeq 2000 sequencing: 11_5	29159
+SRR6063397	gill	Illumina HiSeq 2000 sequencing: 25_15	29159
+SRR6063400	gill	Illumina HiSeq 2000 sequencing: 6A_18	29159
+SRR6063405	gill	Illumina HiSeq 2000 sequencing: 6A_1	29159
+SRR6063411	gill	Illumina HiSeq 2000 sequencing: 34A_23	29159
+SRR6063415	gill	Illumina HiSeq 2000 sequencing: 4A_12	29159
+SRR6063417	gill	Illumina HiSeq 2000 sequencing: 4A_15	29159
+SRR6063430	gill	Illumina HiSeq 2000 sequencing: 18_11	29159
+SRR6063433	gill	Illumina HiSeq 2000 sequencing: 18A_6	29159
+SRR6063440	gill	Illumina HiSeq 2000 sequencing: 9_4	29159
+SRR6063444	gill	Illumina HiSeq 2000 sequencing: 9_20	29159
+SRR6063450	gill	Illumina HiSeq 2000 sequencing: 8A_23	29159
+SRR6063460	gill	Illumina HiSeq 2000 sequencing: 8A_21	29159
+SRR6063461	gill	Illumina HiSeq 2000 sequencing: 30_10	29159
+SRR6063467	gill	Illumina HiSeq 2000 sequencing: 30A_8	29159
+SRR796594	Gill	Illumina Genome Analyzer II sequencing: Transcriptome of the Pacific oyster challenged with different types of bacteria	29159
+SRR796598	Gill	Illumina Genome Analyzer II sequencing: Transcriptome of the Pacific oyster challenged with different types of bacteria	29159
+SRR8485509	Gill	HiSeq X Ten sequencing: RNAi based transcriptome provides new evidence of the HSF3-HSP regulatory relationship in the thermo stress for the Pacific oyster	29159
+SRR8485512	Gill	HiSeq X Ten sequencing: RNAi based transcriptome provides new evidence of the HSF2-HSP regulatory relationship in the thermo stress for the Pacific oyster	29159
+SRR8485514	Gill	HiSeq X Ten sequencing: RNAi based transcriptome provides new evidence of the HSF10-HSP regulatory relationship in the thermo stress for the Pacific oyster	29159
+SRR8489849	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489852	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489854	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489857	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489859	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489866	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489869	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489870	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489872	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489874	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489876	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489882	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8491751	gill	Ion Torrent S5 XL sequencing: microbial communitydiversities of soil	29159
+SRR8491754	gill	Ion Torrent S5 XL sequencing: microbial communitydiversities of soil	29159
+SRR8856653	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856655	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856658	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856659	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856665	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856666	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856667	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856673	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856676	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR2002846	Gill	Illumina Genome Analyzer II sequencing: 6h_control3	29159
+SRR2002938	Gill	Illumina Genome Analyzer II sequencing: 12h_SW2	29159
+SRR2002951	Gill	Illumina Genome Analyzer II sequencing: 48h_SW2	29159
+SRR2002953	Gill	Illumina Genome Analyzer II sequencing: 48h_inj1	29159
+SRR2002958	Gill	Illumina Genome Analyzer II sequencing: 120h_SW3	29159
+SRR2032162	gill	Illumina Genome Analyzer IIx paired end sequencing: Genome resequencing on the 10A25 individual	29159
+SRR2032168	gill	Illumina Genome Analyzer IIx paired end sequencing: Genome resequencing on the 4A9 individual	29159
+SRR22099722	gill	HiSeq X Ten sequencing: RNA-seq of DNA demethylation experiment	29159
+SRR22099724	gill	HiSeq X Ten sequencing: RNA-seq of DNA demethylation experiment	29159
+SRR22099726	gill	HiSeq X Ten sequencing: RNA-seq of DNA demethylation experiment	29159
+SRR22252662	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of C. gigas	29159
+SRR24956765	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956768	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956777	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956784	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956789	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956792	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956797	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956800	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956803	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956806	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956807	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956811	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956814	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956815	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR25336277	gill	HiSeq X Ten sequencing: RNA-seq of oyster postspawning	29159
+SRR25336281	gill	HiSeq X Ten sequencing: RNA-seq of oyster prespawning	29159
+SRR30015904	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015916	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015920	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015921	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015924	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015925	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015927	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015935	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015940	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015953	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015954	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015973	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015980	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015981	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015986	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015991	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015993	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015994	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016003	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016007	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016009	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016014	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016020	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016021	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016023	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016034	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016036	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016053	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016054	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016056	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR32943326	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Magallana gigas: adult	29159
+SRR32943328	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Magallana gigas: adult	29159
+SRR32943329	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Magallana gigas: adult	29159
+SRR33321650	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S83	29159
+SRR33321664	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S8	29159
+SRR33321665	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S70	29159
+SRR33321667	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S68	29159
+SRR33321670	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S65	29159
+SRR33321672	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S63	29159
+SRR33321675	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S7	29159
+SRR33321677	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S59	29159
+SRR33321678	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S58	29159
+SRR33321682	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S54	29159
+SRR33321688	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S49	29159
+SRR33321694	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S43	29159
+SRR33321701	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S37	29159
+SRR33321706	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S32	29159
+SRR33321718	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S21	29159
+SRR33321723	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S17	29159
+SRR33321724	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S16	29159
+SRR33321726	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S14	29159
+SRR34556213	Gills	NextSeq 550 sequencing: X-ChIP unbound on oyster gills2	29159
+SRR40491700	gill	Illumina NovaSeq X Plus sequencing: RNA-Seq of oyster	29159
+SRR40491701	gill	Illumina NovaSeq X Plus sequencing: RNA-Seq of oyster	29159
+DRR299631	Gill	Illumina HiSeq 2500 sequencing: snRNA-seq of Iwa2G	29159
+SRR30532908	gills	NextSeq 550 sequencing: RNA-seq of C. gigas estradiol 6	29159
+SRR30532911	gills	NextSeq 550 sequencing: RNA-seq of C. gigas estradiol 3	29159
+SRR30532920	gills	NextSeq 550 sequencing: RNA-seq of C. gigas control 1	29159
+SRR24489463	Gill	Illumina NovaSeq 6000 sequencing: RNA-Seq of Crassostrea gigas: adult gill under heat stress	29159
+SRR24489471	Gill	Illumina NovaSeq 6000 sequencing: RNA-Seq of Crassostrea gigas: adult gill without heat stress	29159
+SRR24489482	Gill	HiSeq X Ten sequencing: ATAC-Seq of Crassostrea gigas: adult gill without heat stress	29159
+SRR334269	gill	Illumina HiSeq 2000 sequencing: GSM768453: salt_5	29159
+SRR334280	gill	Illumina HiSeq 2000 sequencing: GSM768464: dried_gills_9d	29159
+SRR334292	gill	Illumina HiSeq 2000 sequencing: GSM768476: Pb12h_gills	29159
+SRR334294	gill	Illumina HiSeq 2000 sequencing: GSM768478: Hg12h_gills	29159
+SRR38841277	gill	NextSeq 2000 sequencing: 60S rRNA of simbiotic microbiome	29159
+SRR38841280	gill	NextSeq 2000 sequencing: 57S rRNA of simbiotic microbiome	29159
+SRR38841281	gill	NextSeq 2000 sequencing: 56S rRNA of simbiotic microbiome	29159
+SRR40491702	gill	Illumina NovaSeq X Plus sequencing: RNA-Seq of oyster	29159
+SRR6058486	gill	Illumina HiSeq 2000 sequencing: BYQJ02	29159
+SRR6058519	gill	Illumina HiSeq 2000 sequencing: BYQJ242	29159
+SRR6058529	gill	Illumina HiSeq 2000 sequencing: BYQX01	29159
+SRR6058536	gill	Illumina HiSeq 2000 sequencing: BYQX243	29159
+SRR6058537	gill	Illumina HiSeq 2000 sequencing: BYQX61	29159
+SRR6058613	gill	Illumina HiSeq 2000 sequencing: LTJ241	29159
+SRR6058618	gill	Illumina HiSeq 2000 sequencing: LTJ63	29159
+SRR6058619	gill	Illumina HiSeq 2000 sequencing: LTX01	29159
+SRR6058620	gill	Illumina HiSeq 2000 sequencing: LTX02	29159
+SRR6058621	gill	Illumina HiSeq 2000 sequencing: LTX03	29159
+SRR6058622	gill	Illumina HiSeq 2000 sequencing: LTX241	29159
+SRR6058623	gill	Illumina HiSeq 2000 sequencing: LTX242	29159
+SRR6058627	gill	Illumina HiSeq 2000 sequencing: LTX61	29159
+SRR6058630	gill	Illumina HiSeq 2000 sequencing: LTX63	29159
+SRR6062979	gill	Illumina HiSeq 2000 sequencing: 13_3	29159
+SRR6062993	gill	Illumina HiSeq 2000 sequencing: 25_6	29159
+SRR6063001	gill	Illumina HiSeq 2000 sequencing: 26A_17	29159
+SRR6063008	gill	Illumina HiSeq 2000 sequencing: 19_3	29159
+SRR6063012	gill	Illumina HiSeq 2000 sequencing: 20A_11	29159
+SRR6063014	gill	Illumina HiSeq 2000 sequencing: 20_21	29159
+SRR6063019	gill	Illumina HiSeq 2000 sequencing: 20A_7	29159
+SRR6063021	gill	Illumina HiSeq 2000 sequencing: 20_19	29159
+SRR6063026	gill	Illumina HiSeq 2000 sequencing: 29_4	29159
+SRR6063030	gill	Illumina HiSeq 2000 sequencing: 28A_8	29159
+SRR6063034	gill	Illumina HiSeq 2000 sequencing: 30A_15	29159
+SRR6063036	gill	Illumina HiSeq 2000 sequencing: 6_13	29159
+SRR6063044	gill	Illumina HiSeq 2000 sequencing: 12A_13	29159
+SRR6063045	gill	Illumina HiSeq 2000 sequencing: 12A_12	29159
+SRR6063054	gill	Illumina HiSeq 2000 sequencing: 10A_18	29159
+SRR6063065	gill	Illumina HiSeq 2000 sequencing: 32A_5	29159
+SRR6063069	gill	Illumina HiSeq 2000 sequencing: 32_7	29159
+SRR6063070	gill	Illumina HiSeq 2000 sequencing: 32_15	29159
+SRR6063071	gill	Illumina HiSeq 2000 sequencing: 32A_8	29159
+SRR6063072	gill	Illumina HiSeq 2000 sequencing: 32A_9	29159
+SRR6063073	gill	Illumina HiSeq 2000 sequencing: 7_23	29159
+SRR6063091	gill	Illumina HiSeq 2000 sequencing: 18A_19	29159
+SRR6063094	gill	Illumina HiSeq 2000 sequencing: 18A_4	29159
+SRR6063095	gill	Illumina HiSeq 2000 sequencing: fu	29159
+SRR6063096	gill	Illumina HiSeq 2000 sequencing: Rizh25	29159
+SRR6063107	gill	Illumina HiSeq 2000 sequencing: 14A_11	29159
+SRR6063124	gill	Illumina HiSeq 2000 sequencing: 30A_19	29159
+SRR6063134	gill	Illumina HiSeq 2000 sequencing: 30A_2	29159
+SRR6063142	gill	Illumina HiSeq 2000 sequencing: 16A_24	29159
+SRR6063149	gill	Illumina HiSeq 2000 sequencing: 16A_15	29159
+SRR6063150	gill	Illumina HiSeq 2000 sequencing: 16A_2	29159
+SRR6063154	gill	Illumina HiSeq 2000 sequencing: 16A_12	29159
+SRR6063156	gill	Illumina HiSeq 2000 sequencing: 20A_4	29159
+SRR6063159	gill	Illumina HiSeq 2000 sequencing: 20A_22	29159
+SRR6063166	gill	Illumina HiSeq 2000 sequencing: 15_3	29159
+SRR6063168	gill	Illumina HiSeq 2000 sequencing: 22A_5	29159
+SRR6063172	gill	Illumina HiSeq 2000 sequencing: 22A_22	29159
+SRR6063185	gill	Illumina HiSeq 2000 sequencing: 12_16	29159
+SRR6063187	gill	Illumina HiSeq 2000 sequencing: 16_15	29159
+SRR6063190	gill	Illumina HiSeq 2000 sequencing: 16A_25	29159
+SRR6063200	gill	Illumina HiSeq 2000 sequencing: 21_8	29159
+SRR6063208	gill	Illumina HiSeq 2000 sequencing: 17_17	29159
+SRR6063216	gill	Illumina HiSeq 2000 sequencing: 26_3	29159
+SRR6063217	gill	Illumina HiSeq 2000 sequencing: 28A_11	29159
+SRR6063218	gill	Illumina HiSeq 2000 sequencing: 28A_10	29159
+SRR6063222	gill	Illumina HiSeq 2000 sequencing: 28A_14	29159
+SRR6063227	gill	Illumina HiSeq 2000 sequencing: 10A_23	29159
+SRR6063235	gill	Illumina HiSeq 2000 sequencing: 4A_6	29159
+SRR6063241	gill	Illumina HiSeq 2000 sequencing: 4A_2	29159
+SRR6063243	gill	Illumina HiSeq 2000 sequencing: 4A_22	29159
+SRR6063249	gill	Illumina HiSeq 2000 sequencing: 30_16	29159
+SRR6063256	gill	Illumina HiSeq 2000 sequencing: 24A_9	29159
+SRR6063257	gill	Illumina HiSeq 2000 sequencing: 24A_8	29159
+SRR6063261	gill	Illumina HiSeq 2000 sequencing: 24A_25	29159
+SRR6063264	gill	Illumina HiSeq 2000 sequencing: 24A_4	29159
+SRR6063272	gill	Illumina HiSeq 2000 sequencing: 14A_8	29159
+SRR6063273	gill	Illumina HiSeq 2000 sequencing: 15_12	29159
+SRR6063274	gill	Illumina HiSeq 2000 sequencing: 14_8	29159
+SRR6063279	gill	Illumina HiSeq 2000 sequencing: 21_14	29159
+SRR6063281	gill	Illumina HiSeq 2000 sequencing: 21_16	29159
+SRR6063285	gill	Illumina HiSeq 2000 sequencing: 21_12	29159
+SRR6063290	gill	Illumina HiSeq 2000 sequencing: 28A_5	29159
+SRR6063291	gill	Illumina HiSeq 2000 sequencing: 7_5	29159
+SRR6063293	gill	Illumina HiSeq 2000 sequencing: 8A_1	29159
+SRR6063295	gill	Illumina HiSeq 2000 sequencing: 7_6	29159
+SRR6063299	gill	Illumina HiSeq 2000 sequencing: 28A_20	29159
+SRR6063301	gill	Illumina HiSeq 2000 sequencing: 28A_24	29159
+SRR6063308	gill	Illumina HiSeq 2000 sequencing: 12A_24	29159
+SRR6063311	gill	Illumina HiSeq 2000 sequencing: 12A_2	29159
+SRR6063312	gill	Illumina HiSeq 2000 sequencing: 12A_20	29159
+SRR6063316	gill	Illumina HiSeq 2000 sequencing: 12A_25	29159
+SRR6063322	gill	Illumina HiSeq 2000 sequencing: 7_11	29159
+SRR6063325	gill	Illumina HiSeq 2000 sequencing: 7_21	29159
+SRR6063329	gill	Illumina HiSeq 2000 sequencing: 24A_15	29159
+SRR6063330	gill	Illumina HiSeq 2000 sequencing: 24A_16	29159
+SRR6063333	gill	Illumina HiSeq 2000 sequencing: 24A_19	29159
+SRR6063348	gill	Illumina HiSeq 2000 sequencing: 14A_16	29159
+SRR6063355	gill	Illumina HiSeq 2000 sequencing: 17_18	29159
+SRR6063357	gill	Illumina HiSeq 2000 sequencing: 16_25	29159
+SRR6063366	gill	Illumina HiSeq 2000 sequencing: 9_15	29159
+SRR6063371	gill	Illumina HiSeq 2000 sequencing: 30_6	29159
+SRR6063372	gill	Illumina HiSeq 2000 sequencing: 32A_12	29159
+SRR6063376	gill	Illumina HiSeq 2000 sequencing: 26A_20	29159
+SRR6063387	gill	Illumina HiSeq 2000 sequencing: 11_3	29159
+SRR6063396	gill	Illumina HiSeq 2000 sequencing: 11_10	29159
+SRR6063410	gill	Illumina HiSeq 2000 sequencing: 4A_16	29159
+SRR6063413	gill	Illumina HiSeq 2000 sequencing: 34A_21	29159
+SRR6063418	gill	Illumina HiSeq 2000 sequencing: 4A_14	29159
+SRR6063419	gill	Illumina HiSeq 2000 sequencing: 25_10	29159
+SRR6063435	gill	Illumina HiSeq 2000 sequencing: 18_10	29159
+SRR6063454	gill	Illumina HiSeq 2000 sequencing: 8A_15	29159
+SRR6063465	gill	Illumina HiSeq 2000 sequencing: 30A_4	29159
+SRR796585	Gill	Illumina Genome Analyzer II sequencing: Transcriptome of the Pacific oyster under Vibrio challenge at different time points	29159
+SRR796596	Gill	Illumina Genome Analyzer II sequencing: Transcriptome of the Pacific oyster challenged with different types of bacteria	29159
+SRR8290643	gills	Illumina HiSeq 1500 sequencing: RNA-seq of C. gigas	29159
+SRR8485192	Gills	Illumina HiSeq 2500 sequencing: Metatranscriptomic characterisation of oysters from Australia	29159
+SRR8485504	Gill	HiSeq X Ten sequencing: RNAi based transcriptome provides new evidence of the HSF12-HSP regulatory relationship in the thermo stress for the Pacific oyster	29159
+SRR8485513	Gill	HiSeq X Ten sequencing: RNAi based transcriptome provides new evidence of the HSF9-HSP regulatory relationship in the thermo stress for the Pacific oyster	29159
+SRR8489850	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489853	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489861	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489867	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489877	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489879	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489881	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8856669	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856675	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+ERR13913467	gills	Illumina NovaSeq 6000 sequencing: GT3_16_T1_G_R	29159
+ERR13913476	gills	Illumina NovaSeq 6000 sequencing: GT3_14_T0_G_S	29159
+ERR13913481	gills	Illumina NovaSeq 6000 sequencing: GT5_17_T1_G_S	29159
+ERR3727275	Gill	HiSeq X Ten sequencing: Raw reads: WGS_1	29159
+ERR3760291	Gill	Sequel sequencing: Raw reads: Pacbio_SMRT_1	29159
+ERR3760407	Gill	Sequel sequencing: Raw reads: Pacbio_SMRT_3	29159
+ERR3761162	Gill	Sequel sequencing: Raw reads: Pacbio_SMRT_9	29159
+ERR3761192	Gill	Sequel sequencing: Raw reads: Pacbio_SMRT_12	29159
+ERR4185817	gills	NextSeq 500 sequencing	29159
+ERR4185820	gills	NextSeq 500 sequencing	29159
+ERR4185830	gills	NextSeq 500 sequencing	29159
+ERR4185833	gills	NextSeq 500 sequencing	29159
+SRR10065365	gill	HiSeq X Ten sequencing: BS-seq of Crassostrea gigasgill	29159
+SRR10065366	gill	HiSeq X Ten sequencing: BS-seq of Crassostrea gigasgill	29159
+SRR10065367	gill	HiSeq X Ten sequencing: BS-seq of Crassostrea gigasgill	29159
+SRR10065372	gill	HiSeq X Ten sequencing: BS-seq of Crassostrea gigasgill	29159
+SRR10801761	gill	Illumina NovaSeq 6000 sequencing: HIC DNA seq of Pacific oyster	29159
+SRR10802212	gill	Illumina NovaSeq 6000 sequencing: RNA seq of Pacific oyster	29159
+SRR11011535	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011537	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011538	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011539	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011541	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011542	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011547	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011552	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011553	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011568	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011572	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011574	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011578	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011580	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011584	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011595	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011597	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011603	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011609	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011619	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011623	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011625	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011628	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR13482031	gills	Illumina HiSeq 2000 sequencing: RR59-R2	29159
+SRR13482035	gills	Illumina HiSeq 2000 sequencing: RR52-R2	29159
+SRR13523937	gill	HiSeq X Ten sequencing: BS-seq of Crassostrea gigasgill	29159
+SRR15559848	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas (Gill tissue) Infected by Vibrio at normal salinity	29159
+SRR15559855	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas (Gill tissue) Infected by Vibrio at normal salinty	29159
+SRR15851242	Gills	Illumina HiSeq 2000 sequencing: Afd_1	29159
+SRR16844800	gill	Illumina NovaSeq 6000 sequencing: RNA-Seq of Cg_D24h	29159
+SRR17849692	Gills	Illumina HiSeq 3000 sequencing: GSM5852404: PAO_2_G Crassostrea gigas Bisulfite-Seq	29159
+SRR18452367	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR18452368	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR18452372	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR18452379	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR18452382	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR18452388	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR18452392	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR24956750	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956752	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956754	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956756	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956759	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956766	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956767	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956773	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956778	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956781	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956785	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956786	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956787	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956788	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956791	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956794	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956795	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956799	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956801	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956808	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956809	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956829	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR27190595	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190600	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190612	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190618	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR29014511	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of C.gigas	29159
+SRR29014513	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of C.gigas	29159
+SRR29092535	gill	Illumina NovaSeq 6000 sequencing: Bisulfite-Seq of 0hg3 gill	29159
+SRR29092536	gill	Illumina NovaSeq 6000 sequencing: Bisulfite-Seq of 0hg2 gill	29159
+SRR15032736	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas	29159
+SRR15032745	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas	29159
+SRR15032746	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas	29159
+SRR18245583	gill	HiSeq X Ten sequencing: WGBS of intertidal Crassostrea gigasF0	29159
+SRR18245585	gill	HiSeq X Ten sequencing: WGBS of intertidal Crassostrea gigasF0	29159
+SRR18245588	gill	HiSeq X Ten sequencing: WGBS of subtidal Crassostrea gigasF0	29159
+SRR18245589	gill	HiSeq X Ten sequencing: WGBS of subtidal Crassostrea gigasF0	29159
+SRR18245597	gill	HiSeq X Ten sequencing: WGBS of intertidal Crassostrea gigasF1	29159
+SRR18245598	gill	HiSeq X Ten sequencing: WGBS of intertidal Crassostrea gigasF1	29159
+SRR2002822	Gill	Illumina Genome Analyzer II sequencing: Time0_2	29159
+SRR2002844	Gill	Illumina Genome Analyzer II sequencing: 6h_control1	29159
+SRR2002864	Gill	Illumina Genome Analyzer II sequencing: 6h_inj1	29159
+SRR2002939	Gill	Illumina Genome Analyzer II sequencing: 12h_SW3	29159
+SRR2002940	Gill	Illumina Genome Analyzer II sequencing: 12h_inj1	29159
+SRR2002942	Gill	Illumina Genome Analyzer II sequencing: 12h_inj3	29159
+SRR2002945	Gill	Illumina Genome Analyzer II sequencing: 24h_SW3	29159
+SRR2002949	Gill	Illumina Genome Analyzer II sequencing: 24h_inj3	29159
+SRR2002956	Gill	Illumina Genome Analyzer II sequencing: 120h_SW1	29159
+SRR2002957	Gill	Illumina Genome Analyzer II sequencing: 120h_SW2	29159
+SRR2002959	Gill	Illumina Genome Analyzer II sequencing: 120h_inj1	29159
+SRR2002961	Gill	Illumina Genome Analyzer II sequencing: 120h_inj2	29159
+SRR2032163	gill	Illumina Genome Analyzer IIx paired end sequencing: Genome resequencing on the 16A7 individual	29159
+SRR2032165	gill	Illumina Genome Analyzer IIx paired end sequencing: Genome resequencing on the 24A11 individual	29159
+SRR21047124	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of diploids: Crassostrea gigas	29159
+SRR21047144	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of triploids: Crassostrea gigas	29159
+SRR21047153	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of diploids: Crassostrea gigas	29159
+SRR22099719	gill	HiSeq X Ten sequencing: RNA-seq of DNA demethylation experiment	29159
+SRR22099720	gill	HiSeq X Ten sequencing: RNA-seq of DNA demethylation experiment	29159
+SRR22252659	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of C. gigas	29159
+SRR30015922	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015931	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015938	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015939	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015941	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015945	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015956	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015958	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015960	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015962	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015964	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015970	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015971	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015972	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015974	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015997	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015998	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016015	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016016	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016029	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016032	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016038	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016041	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016046	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016048	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016049	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016051	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR31593365	gill	Illumina NovaSeq X Plus sequencing: Trabscriptone of oyster	29159
+SRR31593367	gill	Illumina NovaSeq X Plus sequencing: Trabscriptone of oyster	29159
+SRR31593387	gill	Illumina NovaSeq X Plus sequencing: Dap-seq of oyster	29159
+SRR32943321	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Magallana gigas: adult	29159
+SRR32943322	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Magallana gigas: adult	29159
+SRR33321642	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S10	29159
+SRR33321648	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S85	29159
+SRR33321652	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S81	29159
+SRR33321666	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S69	29159
+SRR33321681	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S55	29159
+SRR33321684	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S52	29159
+SRR33321691	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S46	29159
+SRR33321693	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S44	29159
+SRR33321696	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S41	29159
+SRR33321698	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S40	29159
+SRR33321702	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S36	29159
+SRR33321703	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S35	29159
+SRR33321705	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S33	29159
+SRR33321709	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S30	29159
+SRR33321710	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S29	29159
+SRR33321712	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S27	29159
+SRR33321721	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S19	29159
+SRR33321731	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S1	29159
+SRR34556212	Gills	NextSeq 550 sequencing: X-ChIP unbound on oyster gills3	29159
+SRR34556214	Gills	NextSeq 550 sequencing: X-ChIP unbound on oyster gills1	29159
+SRR34556218	Gills	NextSeq 550 sequencing: X-ChIP H3K4me3 on oyster gills1	29159
+SRR35298287	Gill	Illumina HiSeq 4000 sequencing: RNA-seq of OsHV-1 infected oyster	29159
+SRR35359943	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of Magallana gigas:Gill	29159
+SRR35359944	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of Magallana gigas:Gill	29159
+SRR35430436	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of Magallana gigas gill	29159
+SRR35579182	Gill	DNBSEQ-G400 sequencing: RNA-seq of Magallana gigas Gill	29159
+SRR35579184	Gill	DNBSEQ-G400 sequencing: RNA-seq of Magallana gigas Gill	29159
+SRR6058535	gill	Illumina HiSeq 2000 sequencing: BYQX242	29159
+SRR6058616	gill	Illumina HiSeq 2000 sequencing: LTJ61	29159
+SRR6062976	gill	Illumina HiSeq 2000 sequencing: 32A_15	29159
+SRR6062978	gill	Illumina HiSeq 2000 sequencing: 13_4	29159
+SRR6062982	gill	Illumina HiSeq 2000 sequencing: 13_20	29159
+SRR6062991	gill	Illumina HiSeq 2000 sequencing: 26A_13	29159
+SRR6062992	gill	Illumina HiSeq 2000 sequencing: 25_5	29159
+SRR6062994	gill	Illumina HiSeq 2000 sequencing: 25_8	29159
+SRR6062996	gill	Illumina HiSeq 2000 sequencing: 16A_1	29159
+SRR6063004	gill	Illumina HiSeq 2000 sequencing: 20A_14	29159
+SRR6063009	gill	Illumina HiSeq 2000 sequencing: 19_5	29159
+SRR6063016	gill	Illumina HiSeq 2000 sequencing: 20_10	29159
+SRR6063041	gill	Illumina HiSeq 2000 sequencing: 12A_15	29159
+SRR6063058	gill	Illumina HiSeq 2000 sequencing: 6A_25	29159
+SRR6063068	gill	Illumina HiSeq 2000 sequencing: 32A_4	29159
+SRR6063080	gill	Illumina HiSeq 2000 sequencing: 23_20	29159
+SRR6063098	gill	Illumina HiSeq 2000 sequencing: Kor9wai	29159
+SRR6063101	gill	Illumina HiSeq 2000 sequencing: 8A_12	29159
+SRR6063103	gill	Illumina HiSeq 2000 sequencing: 13_8	29159
+SRR6063108	gill	Illumina HiSeq 2000 sequencing: 13_9	29159
+SRR6063112	gill	Illumina HiSeq 2000 sequencing: 8_13	29159
+SRR6063117	gill	Illumina HiSeq 2000 sequencing: 8A_7	29159
+SRR6063121	gill	Illumina HiSeq 2000 sequencing: 30A_24	29159
+SRR6063126	gill	Illumina HiSeq 2000 sequencing: 30A_18	29159
+SRR6063127	gill	Illumina HiSeq 2000 sequencing: 12_8	29159
+SRR6063130	gill	Illumina HiSeq 2000 sequencing: 12_2	29159
+SRR6063131	gill	Illumina HiSeq 2000 sequencing: 12_21	29159
+SRR6063132	gill	Illumina HiSeq 2000 sequencing: 12_22	29159
+SRR6063133	gill	Illumina HiSeq 2000 sequencing: 12_23	29159
+SRR6063143	gill	Illumina HiSeq 2000 sequencing: 25_24	29159
+SRR6063152	gill	Illumina HiSeq 2000 sequencing: 16A_18	29159
+SRR6063153	gill	Illumina HiSeq 2000 sequencing: 16A_19	29159
+SRR6063167	gill	Illumina HiSeq 2000 sequencing: 22A_3	29159
+SRR6063169	gill	Illumina HiSeq 2000 sequencing: 22A_24	29159
+SRR6063179	gill	Illumina HiSeq 2000 sequencing: 12_1	29159
+SRR6063184	gill	Illumina HiSeq 2000 sequencing: 12_13	29159
+SRR6063206	gill	Illumina HiSeq 2000 sequencing: 21_3	29159
+SRR6063210	gill	Illumina HiSeq 2000 sequencing: 17_19	29159
+SRR6063211	gill	Illumina HiSeq 2000 sequencing: 22A_15	29159
+SRR6063215	gill	Illumina HiSeq 2000 sequencing: 28A_1	29159
+SRR6063224	gill	Illumina HiSeq 2000 sequencing: 28A_16	29159
+SRR6063228	gill	Illumina HiSeq 2000 sequencing: 10A_22	29159
+SRR6063234	gill	Illumina HiSeq 2000 sequencing: 10A_6	29159
+SRR6063236	gill	Illumina HiSeq 2000 sequencing: 4A_5	29159
+SRR6063245	gill	Illumina HiSeq 2000 sequencing: 30_21	29159
+SRR6063262	gill	Illumina HiSeq 2000 sequencing: 24A_24	29159
+SRR6063263	gill	Illumina HiSeq 2000 sequencing: 24A_5	29159
+SRR6063265	gill	Illumina HiSeq 2000 sequencing: 24A_7	29159
+SRR6063266	gill	Illumina HiSeq 2000 sequencing: 24A_6	29159
+SRR6063276	gill	Illumina HiSeq 2000 sequencing: 15_21	29159
+SRR6063287	gill	Illumina HiSeq 2000 sequencing: 8A_6	29159
+SRR6063288	gill	Illumina HiSeq 2000 sequencing: 8A_3	29159
+SRR6063296	gill	Illumina HiSeq 2000 sequencing: 8A_10	29159
+SRR6063298	gill	Illumina HiSeq 2000 sequencing: 28A_2	29159
+SRR6063302	gill	Illumina HiSeq 2000 sequencing: 28A_22	29159
+SRR6063303	gill	Illumina HiSeq 2000 sequencing: 28A_25	29159
+SRR6063306	gill	Illumina HiSeq 2000 sequencing: 12A_23	29159
+SRR6063307	gill	Illumina HiSeq 2000 sequencing: 8_16	29159
+SRR6063313	gill	Illumina HiSeq 2000 sequencing: 12A_18	29159
+SRR6063317	gill	Illumina HiSeq 2000 sequencing: 7_17	29159
+SRR6063320	gill	Illumina HiSeq 2000 sequencing: 7_2	29159
+SRR6063323	gill	Illumina HiSeq 2000 sequencing: 7_12	29159
+SRR6063324	gill	Illumina HiSeq 2000 sequencing: 7_16	29159
+SRR6063326	gill	Illumina HiSeq 2000 sequencing: 7_20	29159
+SRR6063337	gill	Illumina HiSeq 2000 sequencing: 17_8	29159
+SRR6063338	gill	Illumina HiSeq 2000 sequencing: 17_5	29159
+SRR6063345	gill	Illumina HiSeq 2000 sequencing: 14A_15	29159
+SRR6063351	gill	Illumina HiSeq 2000 sequencing: 14A_20	29159
+SRR6063356	gill	Illumina HiSeq 2000 sequencing: 16_23	29159
+SRR6063359	gill	Illumina HiSeq 2000 sequencing: 9_2	29159
+SRR6063365	gill	Illumina HiSeq 2000 sequencing: 9_14	29159
+SRR6063377	gill	Illumina HiSeq 2000 sequencing: 26A_21	29159
+SRR6063390	gill	Illumina HiSeq 2000 sequencing: 11_21	29159
+SRR6063392	gill	Illumina HiSeq 2000 sequencing: 11_25	29159
+SRR6063403	gill	Illumina HiSeq 2000 sequencing: 6A_15	29159
+SRR6063406	gill	Illumina HiSeq 2000 sequencing: 6A_10	29159
+SRR6063409	gill	Illumina HiSeq 2000 sequencing: 4A_17	29159
+SRR6063422	gill	Illumina HiSeq 2000 sequencing: 24_2	29159
+SRR6063423	gill	Illumina HiSeq 2000 sequencing: 24_13	29159
+SRR6063427	gill	Illumina HiSeq 2000 sequencing: 24_22	29159
+SRR6063441	gill	Illumina HiSeq 2000 sequencing: 9_8	29159
+SRR6063445	gill	Illumina HiSeq 2000 sequencing: 9_3	29159
+SRR6063446	gill	Illumina HiSeq 2000 sequencing: 9_9	29159
+SRR6063459	gill	Illumina HiSeq 2000 sequencing: 8A_20	29159
+SRR6063466	gill	Illumina HiSeq 2000 sequencing: 30A_6	29159
+SRR6063470	gill	Illumina HiSeq 2000 sequencing: 12A_8	29159
+SRR7647214	gills	Illumina HiSeq 2000 sequencing: control RNA	29159
+SRR796583	Gill	Illumina Genome Analyzer II sequencing: Transcriptome of the Pacific oyster under Vibrio challenge at different time points	29159
+SRR796589	Gill	Illumina Genome Analyzer II sequencing: Transcriptome of the Pacific oyster challenged with different types of bacteria	29159
+SRR796591	Gill	Illumina Genome Analyzer II sequencing: Transcriptome of the Pacific oyster challenged with different types of bacteria	29159
+SRR796592	Gill	Illumina Genome Analyzer II sequencing: Transcriptome of the Pacific oyster challenged with different types of bacteria	29159
+SRR796593	Gill	Illumina Genome Analyzer II sequencing: Transcriptome of the Pacific oyster challenged with different types of bacteria	29159
+SRR796595	Gill	Illumina Genome Analyzer II sequencing: Transcriptome of the Pacific oyster challenged with different types of bacteria	29159
+SRR796597	Gill	Illumina Genome Analyzer II sequencing: Transcriptome of the Pacific oyster challenged with different types of bacteria	29159
+SRR8856650	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856657	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856662	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856677	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856678	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856681	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856684	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+DRR299635	Gill	Illumina HiSeq 2500 sequencing: snRNA-seq of Iwa3G	29159
+SRR19046235	gill	Illumina NovaSeq 6000 sequencing: RNA-Seq of 48hg1 gill	29159
+SRR19046237	gill	Illumina NovaSeq 6000 sequencing: RNA-Seq of 6hg2 gill	29159
+SRR31593369	gill	Illumina NovaSeq X Plus sequencing: Trabscriptone of oyster	29159
+SRR31593385	gill	Illumina NovaSeq X Plus sequencing: Dap-seq of oyster	29159
+SRR31994100	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of oyster gill:sample6	29159
+SRR34556215	Gills	NextSeq 550 sequencing: X-ChIP H3K4me3 on oyster gills4	29159
+SRR8485503	Gill	HiSeq X Ten sequencing: RNAi based transcriptome provides new evidence of the HSF11-HSP regulatory relationship in the thermo stress for the Pacific oyster	29159
+SRR8489858	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489878	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489880	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8489883	gill	HiSeq X Ten sequencing: co-evolution of genetic adaptation and environmentally induced plasticity in two oyster congeners	29159
+SRR8491748	gill	Ion Torrent S5 XL sequencing: microbial communitydiversities of soil	29159
+SRR8491750	gill	Ion Torrent S5 XL sequencing: microbial communitydiversities of soil	29159
+SRR8491752	gill	Ion Torrent S5 XL sequencing: microbial communitydiversities of soil	29159
+SRR8491753	gill	Ion Torrent S5 XL sequencing: microbial communitydiversities of soil	29159
+SRR8491755	gill	Ion Torrent S5 XL sequencing: microbial communitydiversities of soil	29159
+SRR8856652	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856654	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856661	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856663	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856670	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856671	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856672	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856674	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856679	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856682	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR8856685	gills	Illumina HiSeq 2000 sequencing: RNA-Seq of gill tissue from C. gigas	29159
+SRR942533	gill	Illumina HiSeq 2000 sequencing: Gill methylome of Pacific oyster using methylation-enriched bisulfite sequencing	29159
+ERR13913462	gills	Illumina NovaSeq 6000 sequencing: GT1_09_T0_G_R	29159
+ERR13913469	gills	Illumina NovaSeq 6000 sequencing: GT4_21_T1_G_R	29159
+ERR13913470	gills	Illumina NovaSeq 6000 sequencing: GT5_06_T0_G_R	29159
+ERR13913478	gills	Illumina NovaSeq 6000 sequencing: GT4_21_T0_G_S	29159
+ERR13913480	gills	Illumina NovaSeq 6000 sequencing: GT5_17_T0_G_S	29159
+ERR4185818	gills	NextSeq 500 sequencing	29159
+ERR4185821	gills	NextSeq 500 sequencing	29159
+ERR4185827	gills	NextSeq 500 sequencing	29159
+SRR10065373	gill	HiSeq X Ten sequencing: BS-seq of Crassostrea gigasgill	29159
+SRR10065375	gill	HiSeq X Ten sequencing: BS-seq of Crassostrea gigasgill	29159
+SRR10800310	gill	Sequel II sequencing: DNA seq of Pacific oyster	29159
+SRR10800311	gill	Sequel II sequencing: DNA seq of Pacific oyster	29159
+SRR10801759	gill	Illumina NovaSeq 6000 sequencing: HIC DNA seq of Pacific oyster	29159
+SRR11011534	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011540	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011548	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011551	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011561	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011562	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011570	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011577	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011579	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011586	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011587	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011590	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011596	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011601	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011608	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011612	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011614	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011622	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011627	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011629	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR11011630	gill	Illumina HiSeq 2500 sequencing: Slaf-seq of crassotrea gigas: juvenile	29159
+SRR13482027	gills	Illumina HiSeq 2000 sequencing: SS35-R2	29159
+SRR13482032	gills	Illumina HiSeq 2000 sequencing: SS05-R2	29159
+SRR13482034	gills	Illumina HiSeq 2000 sequencing: RR52-R3	29159
+SRR13482038	gills	Illumina HiSeq 2000 sequencing: SS05-R1	29159
+SRR13523938	gill	HiSeq X Ten sequencing: BS-seq of Crassostrea gigasgill	29159
+SRR13523941	gill	HiSeq X Ten sequencing: BS-seq of Crassostrea gigasgill	29159
+SRR13576942	gill	HiSeq X Ten sequencing: RNA-Seq of oyster: larva	29159
+SRR15032737	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas	29159
+SRR15559847	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas (Gill tissue) Infected by Vibrio at normal salinty	29159
+SRR15559852	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas (Gill tissue) Infected by Vibrio at normal salinty	29159
+SRR15559858	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Crassostrea gigas (Gill tissue) Infected by Vibrio at low salinity	29159
+SRR15851230	Gills	Illumina HiSeq 2000 sequencing: A12d_3	29159
+SRR15851235	Gills	Illumina HiSeq 2000 sequencing: A0t_1	29159
+SRR15851239	Gills	Illumina HiSeq 2000 sequencing: Aft_1	29159
+SRR15851240	Gills	Illumina HiSeq 2000 sequencing: Afd_3	29159
+SRR15851241	Gills	Illumina HiSeq 2000 sequencing: Afd_2	29159
+SRR15851243	Gills	Illumina HiSeq 2000 sequencing: A12t_3	29159
+SRR16766932	Gill	Illumina HiSeq X sequencing: HiC library	29159
+SRR16844797	gill	Illumina NovaSeq 6000 sequencing: RNA-Seq of Cg_0h	29159
+SRR17850319	Gills	Illumina HiSeq 3000 sequencing: GSM5852407: PAO_6_G Crassostrea gigas Bisulfite-Seq	29159
+SRR18245587	gill	HiSeq X Ten sequencing: WGBS of subtidal Crassostrea gigasF0	29159
+SRR18452369	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR18452374	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR18452380	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR18452381	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR18452385	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR18452387	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR18452389	Gill	Illumina HiSeq 2500 sequencing: RNA-Seq of Crassostrea gigas: Adult digestive gland	29159
+SRR22099718	gill	HiSeq X Ten sequencing: RNA-seq of DNA demethylation experiment	29159
+SRR24489461	Gill	Illumina NovaSeq 6000 sequencing: RNA-Seq of Crassostrea gigas: adult gill under heat stress	29159
+SRR24489464	Gill	HiSeq X Ten sequencing: ATAC-Seq of Crassostrea gigas: adult gill without heat stress	29159
+SRR24489480	Gill	HiSeq X Ten sequencing: ATAC-Seq of Crassostrea gigas: adult gill under heat stress	29159
+SRR24489483	Gill	Illumina NovaSeq 6000 sequencing: RNA-Seq of Crassostrea gigas: adult gill without heat stress	29159
+SRR24956755	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956764	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956770	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956772	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956779	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956780	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956802	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956805	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956810	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956813	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR24956818	Gill	Illumina NovaSeq 6000 sequencing: Genome resequencing of oyster	29159
+SRR29014508	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of C.gigas	29159
+SRR29014512	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of C.gigas	29159
+SRR29092531	gill	Illumina NovaSeq 6000 sequencing: Bisulfite-Seq of 48hg1 gill	29159
+SRR29092532	gill	Illumina NovaSeq 6000 sequencing: Bisulfite-Seq of 6hg3 gill	29159
+SRR2002823	Gill	Illumina Genome Analyzer II sequencing: Time0_3	29159
+SRR2002935	Gill	Illumina Genome Analyzer II sequencing: 6h_inj3	29159
+SRR2002936	Gill	Illumina Genome Analyzer II sequencing: 12h_SW1	29159
+SRR2002944	Gill	Illumina Genome Analyzer II sequencing: 24h_SW2	29159
+SRR2002947	Gill	Illumina Genome Analyzer II sequencing: 24h_inj1	29159
+SRR2002948	Gill	Illumina Genome Analyzer II sequencing: 24h_inj2	29159
+SRR2002962	Gill	Illumina Genome Analyzer II sequencing: 120h_inj3	29159
+SRR2032164	gill	Illumina Genome Analyzer IIx paired end sequencing: Genome resequencing on the 20A15 individual	29159
+SRR2032167	gill	Illumina Genome Analyzer IIx paired end sequencing: Genome resequencing on the 30-9 individual	29159
+SRR2032170	gill	Illumina Genome Analyzer IIx paired end sequencing: Genome resequencing on the 8A8 individual	29159
+SRR21047127	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of diploids: Crassostrea gigas	29159
+SRR21047132	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of triploids: Crassostrea gigas	29159
+SRR21047136	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of triploids: Crassostrea gigas	29159
+SRR21047137	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of triploids: Crassostrea gigas	29159
+SRR21047148	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of diploids: Crassostrea gigas	29159
+SRR21047151	gill	Illumina NovaSeq 6000 sequencing: RNA-seq of diploids: Crassostrea gigas	29159
+SRR26320487	Gill	Illumina NovaSeq 6000 sequencing: Whole genome sequencing	29159
+SRR27190593	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190597	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190604	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190606	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190607	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190609	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190610	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190616	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR27190621	gill	Illumina NovaSeq 6000 sequencing: Transcriptome of Crassostrea gigas	29159
+SRR30015899	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015908	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015909	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015911	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015913	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015926	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015928	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015930	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015943	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015947	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015948	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015963	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015966	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015967	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015969	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015975	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015979	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015982	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015989	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30015996	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016004	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016008	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016010	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016011	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016012	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016013	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016024	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016030	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016033	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30016039	gill	DNBSEQ-T7 sequencing: DNA-Seq of gill:oyster	29159
+SRR30532909	gills	NextSeq 550 sequencing: RNA-seq of C. gigas estradiol 5	29159
+SRR30532917	gills	NextSeq 550 sequencing: RNA-seq of C. gigas control 4	29159
+SRR30532918	gills	NextSeq 550 sequencing: RNA-seq of C. gigas control 3	29159
+SRR30532919	gills	NextSeq 550 sequencing: RNA-seq of C. gigas control 2	29159
+SRR32943319	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Magallana gigas: adult	29159
+SRR32943320	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Magallana gigas: adult	29159
+SRR32943323	Gill	Illumina NovaSeq 6000 sequencing: RNA-seq of Magallana gigas: adult	29159
+SRR33321634	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S98	29159
+SRR33321636	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S96	29159
+SRR33321651	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S82	29159
+SRR33321654	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S80	29159
+SRR33321655	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S79	29159
+SRR33321656	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S78	29159
+SRR33321661	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S73	29159
+SRR33321668	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S67	29159
+SRR33321669	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S66	29159
+SRR33321674	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S61	29159
+SRR33321676	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S60	29159
+SRR33321685	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S51	29159
+SRR33321686	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S6	29159
+SRR33321687	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S50	29159
+SRR33321690	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S47	29159
+SRR33321695	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S42	29159
+SRR33321697	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S5	29159
+SRR33321699	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S39	29159
+SRR33321704	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S34	29159
+SRR33321715	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S24	29159
+SRR33321717	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S22	29159
+SRR33321719	gill	DNBSEQ-T7 sequencing: Resequencing of the F2 Generation Population Derived from the Hybridization Between Crassostrea gigas and Crassostrea angulata: Sample S3	29159
+SRR334263	gill	Illumina HiSeq 2000 sequencing: GSM768447: temperature_10	29159
+SRR334265	gill	Illumina HiSeq 2000 sequencing: GSM768449: temperature_20	29159
+SRR334276	gill	Illumina HiSeq 2000 sequencing: GSM768460: dried_gills_1d	29159
+SRR334303	gill	Illumina HiSeq 2000 sequencing: GSM768487: Cu9d_gills	29159
+SRR334304	gill	Illumina HiSeq 2000 sequencing: GSM768488: Hg9d_gills	29159
+SRR334308	gill	Illumina HiSeq 2000 sequencing: GSM768492: Cd9d_gills	29159
+SRR334312	gill	Illumina HiSeq 2000 sequencing: GSM768496: Metal_C-gills	29159
+SRR35359941	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of Magallana gigas:Gill	29159
+SRR35359950	Gill	Illumina HiSeq 2500 sequencing: RNA-seq of Magallana gigas:Gill	29159
+SRR35579186	Gill	DNBSEQ-G400 sequencing: RNA-seq of Magallana gigas Gill	29159
+SRR35579188	Gill	DNBSEQ-G400 sequencing: RNA-seq of Magallana gigas Gill	29159
+SRR35579189	Gill	DNBSEQ-G400 sequencing: RNA-seq of Magallana gigas Gill	29159
+SRR38841274	gill	NextSeq 2000 sequencing: 62S rRNA of simbiotic microbiome	29159
+SRR38841278	gill	NextSeq 2000 sequencing: 59S rRNA of simbiotic microbiome	29159
+SRR40491699	gill	Illumina NovaSeq X Plus sequencing: RNA-Seq of oyster	29159
+SRR40491704	gill	Illumina NovaSeq X Plus sequencing: RNA-Seq of oyster	29159
+SRR497890	Gill	Illumina HiSeq 2000 paired end sequencing: GSM932404: PC Crassostrea gigas RNA-Seq	29159
+SRR497891	Gill	Illumina HiSeq 2000 paired end sequencing: GSM932405: PT Crassostrea gigas RNA-Seq	29159
+SRR6058506	gill	Illumina HiSeq 2000 sequencing: BYQJ03	29159
+SRR6058518	gill	Illumina HiSeq 2000 sequencing: BYQJ241	29159
+SRR6058521	gill	Illumina HiSeq 2000 sequencing: BYQJ243	29159
+SRR6058527	gill	Illumina HiSeq 2000 sequencing: BYQJ62	29159
+SRR6058530	gill	Illumina HiSeq 2000 sequencing: BYQX02	29159
+SRR6058534	gill	Illumina HiSeq 2000 sequencing: BYQX241	29159
+SRR6058539	gill	Illumina HiSeq 2000 sequencing: BYQX62	29159
+SRR6058540	gill	Illumina HiSeq 2000 sequencing: BYQX63	29159
+SRR6058611	gill	Illumina HiSeq 2000 sequencing: LTJ02	29159
+SRR6058614	gill	Illumina HiSeq 2000 sequencing: LTJ242	29159
+SRR6058615	gill	Illumina HiSeq 2000 sequencing: LTJ243	29159
+SRR6058625	gill	Illumina HiSeq 2000 sequencing: LTX243	29159
+SRR6058629	gill	Illumina HiSeq 2000 sequencing: LTX62	29159
+SRR6062980	gill	Illumina HiSeq 2000 sequencing: 13_21	29159
+SRR6062999	gill	Illumina HiSeq 2000 sequencing: 15_4	29159
+SRR6063000	gill	Illumina HiSeq 2000 sequencing: 26A_15	29159
+SRR6063006	gill	Illumina HiSeq 2000 sequencing: 19_20	29159
+SRR6063007	gill	Illumina HiSeq 2000 sequencing: 19_21	29159
+SRR6063011	gill	Illumina HiSeq 2000 sequencing: 20A_10	29159
+SRR6063013	gill	Illumina HiSeq 2000 sequencing: 20A_13	29159
+SRR6063015	gill	Illumina HiSeq 2000 sequencing: 20_5	29159
+SRR6063032	gill	Illumina HiSeq 2000 sequencing: 28A_6	29159
+SRR6063035	gill	Illumina HiSeq 2000 sequencing: 6_21	29159
+SRR6063038	gill	Illumina HiSeq 2000 sequencing: 11_9	29159
+SRR6063042	gill	Illumina HiSeq 2000 sequencing: 12A_14	29159
+SRR6063048	gill	Illumina HiSeq 2000 sequencing: 10A_21	29159
+SRR6063051	gill	Illumina HiSeq 2000 sequencing: 10A_11	29159
+SRR6063053	gill	Illumina HiSeq 2000 sequencing: 10A_1	29159
+SRR6063055	gill	Illumina HiSeq 2000 sequencing: 10A_16	29159
+SRR6063056	gill	Illumina HiSeq 2000 sequencing: 10A_15	29159
+SRR6063057	gill	Illumina HiSeq 2000 sequencing: 10A_13	29159
+SRR6063060	gill	Illumina HiSeq 2000 sequencing: 32_8	29159
+SRR6063066	gill	Illumina HiSeq 2000 sequencing: 32A_7	29159
+SRR6063078	gill	Illumina HiSeq 2000 sequencing: 23_25	29159
+SRR6063083	gill	Illumina HiSeq 2000 sequencing: 22_18	29159
+SRR6063087	gill	Illumina HiSeq 2000 sequencing: 18A_22	29159
+SRR6063100	gill	Illumina HiSeq 2000 sequencing: 8A_13	29159
+SRR6063102	gill	Illumina HiSeq 2000 sequencing: 13_7	29159
+SRR6063110	gill	Illumina HiSeq 2000 sequencing: 14A_12	29159
+SRR6063113	gill	Illumina HiSeq 2000 sequencing: 8_12	29159
+SRR6063114	gill	Illumina HiSeq 2000 sequencing: 8_10	29159
+SRR6063115	gill	Illumina HiSeq 2000 sequencing: 8A_9	29159
+SRR6063119	gill	Illumina HiSeq 2000 sequencing: 30A_3	29159
+SRR6063120	gill	Illumina HiSeq 2000 sequencing: 30A_23	29159
+SRR6063122	gill	Illumina HiSeq 2000 sequencing: 30A_20	29159
+SRR6063123	gill	Illumina HiSeq 2000 sequencing: 30A_21	29159
+SRR6063125	gill	Illumina HiSeq 2000 sequencing: 30A_17	29159
+SRR6063128	gill	Illumina HiSeq 2000 sequencing: 12_4	29159
+SRR6063135	gill	Illumina HiSeq 2000 sequencing: 12_24	29159
+SRR6063138	gill	Illumina HiSeq 2000 sequencing: 25_2	29159
+SRR6063139	gill	Illumina HiSeq 2000 sequencing: 25_19	29159
+SRR6063140	gill	Illumina HiSeq 2000 sequencing: 16A_23	29159
+SRR6063141	gill	Illumina HiSeq 2000 sequencing: 25_25	29159
+SRR6063151	gill	Illumina HiSeq 2000 sequencing: 16A_20	29159
+SRR6063155	gill	Illumina HiSeq 2000 sequencing: 16A_11	29159
+SRR6063158	gill	Illumina HiSeq 2000 sequencing: 20A_24	29159
+SRR6063165	gill	Illumina HiSeq 2000 sequencing: 20A_5	29159
+SRR6063171	gill	Illumina HiSeq 2000 sequencing: 22A_19	29159
+SRR6063175	gill	Illumina HiSeq 2000 sequencing: 22A_9	29159
+SRR6063176	gill	Illumina HiSeq 2000 sequencing: 22_1	29159
+SRR6063178	gill	Illumina HiSeq 2000 sequencing: 12A_5	29159
+SRR6063181	gill	Illumina HiSeq 2000 sequencing: 12A_7	29159
+SRR6063191	gill	Illumina HiSeq 2000 sequencing: 16A_5	29159
+SRR6063194	gill	Illumina HiSeq 2000 sequencing: 16_11	29159
+SRR6063196	gill	Illumina HiSeq 2000 sequencing: 25_3	29159
+SRR6063197	gill	Illumina HiSeq 2000 sequencing: 18A_18	29159
+SRR6063202	gill	Illumina HiSeq 2000 sequencing: 22A_10	29159
+SRR6063203	gill	Illumina HiSeq 2000 sequencing: 21_25	29159
+SRR6063213	gill	Illumina HiSeq 2000 sequencing: 16_3	29159
+SRR6063214	gill	Illumina HiSeq 2000 sequencing: 16_9	29159
+SRR6063223	gill	Illumina HiSeq 2000 sequencing: 28A_17	29159
+SRR6063237	gill	Illumina HiSeq 2000 sequencing: 4A_24	29159
+SRR6063239	gill	Illumina HiSeq 2000 sequencing: 4A_23	29159
+SRR6063244	gill	Illumina HiSeq 2000 sequencing: 4A_20	29159
+SRR6063246	gill	Illumina HiSeq 2000 sequencing: 30_22	29159
+SRR6063251	gill	Illumina HiSeq 2000 sequencing: 30_2	29159
+SRR6063255	gill	Illumina HiSeq 2000 sequencing: 30_5	29159
+SRR6063259	gill	Illumina HiSeq 2000 sequencing: 24A_23	29159
+SRR6063260	gill	Illumina HiSeq 2000 sequencing: 24A_22	29159
+SRR6063277	gill	Illumina HiSeq 2000 sequencing: 21_20	29159
+SRR6063289	gill	Illumina HiSeq 2000 sequencing: 28A_4	29159
+SRR6063297	gill	Illumina HiSeq 2000 sequencing: 28A_19	29159
+SRR6063300	gill	Illumina HiSeq 2000 sequencing: 28A_21	29159
+SRR6063319	gill	Illumina HiSeq 2000 sequencing: 7_18	29159
+SRR6063328	gill	Illumina HiSeq 2000 sequencing: 24A_14	29159
+SRR6063334	gill	Illumina HiSeq 2000 sequencing: 24A_2	29159
+SRR6063341	gill	Illumina HiSeq 2000 sequencing: 18A_15	29159
+SRR6063343	gill	Illumina HiSeq 2000 sequencing: 17_2	29159
+SRR6063347	gill	Illumina HiSeq 2000 sequencing: 14A_17	29159
+SRR6063350	gill	Illumina HiSeq 2000 sequencing: 14A_18	29159
+SRR6063352	gill	Illumina HiSeq 2000 sequencing: 14A_2	29159
+SRR6063363	gill	Illumina HiSeq 2000 sequencing: 9_11	29159
+SRR6063369	gill	Illumina HiSeq 2000 sequencing: 30_8	29159
+SRR6063373	gill	Illumina HiSeq 2000 sequencing: 32A_11	29159
+SRR6063384	gill	Illumina HiSeq 2000 sequencing: 26A_5	29159
+SRR6063385	gill	Illumina HiSeq 2000 sequencing: 26A_8	29159
+SRR6063389	gill	Illumina HiSeq 2000 sequencing: 11_11	29159
+SRR6063393	gill	Illumina HiSeq 2000 sequencing: 10_24	29159
+SRR6063394	gill	Illumina HiSeq 2000 sequencing: 10_6	29159
+SRR6063395	gill	Illumina HiSeq 2000 sequencing: 10_8	29159
+SRR6063398	gill	Illumina HiSeq 2000 sequencing: 8_20	29159
+SRR6063399	gill	Illumina HiSeq 2000 sequencing: 6A_17	29159
+SRR6063404	gill	Illumina HiSeq 2000 sequencing: 6A_12	29159
+SRR6063407	gill	Illumina HiSeq 2000 sequencing: 4A_9	29159
+SRR6063420	gill	Illumina HiSeq 2000 sequencing: 25_1	29159
+SRR6063421	gill	Illumina HiSeq 2000 sequencing: 24_18	29159
+SRR6063424	gill	Illumina HiSeq 2000 sequencing: 24_17	29159
+SRR6063426	gill	Illumina HiSeq 2000 sequencing: 24_9	29159
+SRR6063429	gill	Illumina HiSeq 2000 sequencing: 18_2	29159
+SRR6063431	gill	Illumina HiSeq 2000 sequencing: 19_11	29159
+SRR6063432	gill	Illumina HiSeq 2000 sequencing: 19_1	29159
+SRR6063436	gill	Illumina HiSeq 2000 sequencing: 18A_7	29159
+SRR6063437	gill	Illumina HiSeq 2000 sequencing: 19_17	29159
+SRR6063438	gill	Illumina HiSeq 2000 sequencing: 19_14	29159
+SRR6063439	gill	Illumina HiSeq 2000 sequencing: 9_6	29159
+SRR6063447	gill	Illumina HiSeq 2000 sequencing: 9_23	29159
+SRR6063448	gill	Illumina HiSeq 2000 sequencing: 25_11	29159
+SRR6063453	gill	Illumina HiSeq 2000 sequencing: 8A_19	29159
+SRR6063455	gill	Illumina HiSeq 2000 sequencing: 8A_2	29159
+SRR6063456	gill	Illumina HiSeq 2000 sequencing: 8A_18	29159
+SRR6063457	gill	Illumina HiSeq 2000 sequencing: 30_15	29159
+SRR6063462	gill	Illumina HiSeq 2000 sequencing: 30_1	29159
+SRR6063463	gill	Illumina HiSeq 2000 sequencing: 30_12	29159
+SRR6063464	gill	Illumina HiSeq 2000 sequencing: 30_11	29159
